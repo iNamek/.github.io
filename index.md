@@ -215,11 +215,10 @@ Parental leave, approximately 30%
 2. Rydwik, E., Anmyr, L., Regardt, M., McAllister, A., Zarenoe, R., Åkerman, E., Orrevall, Y., Bragesjö, M., Dahl, O., Kemani, M. K., Nordstrand, L., Ekman, U., Holmström, L., & Nygren-Bonnier, M. (2021). ReCOV: recovery and rehabilitation during and after COVID-19-a study protocol of a longitudinal observational study on patients, next of kin and health care staff. Bmc Sports Science Medicine and Rehabilitation, 13(1). doi:10.1186/s13102-021-00299-9. PMID: 34193260. <https://pubmed.ncbi.nlm.nih.gov/34193260/>
 
 3. Danielson, M., Kemani, M. (2021). When Saga Norén meets neurotypicality: A liminal encounter along The Bridge. Normalizing Mental Illness and 
-Neurodiversity in Entertainment Media: Quieting the Madness. London & New York, Taylor & Francis. 96-109. <https://lnu.divaportal.org/smash/record.jsf?pid=diva2%3A1553427&dswid=-4096>
+Neurodiversity in Entertainment Media: Quieting the Madness. London & New York, Taylor & Francis. 96-109. <https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1553427&dswid=6374>
 
 4. Ekman, U., Kemani, M. K., Wallert, J., Wicksell, R. K., Holmström, L., Ngandu, T., Rennie, A., Akenine, U., Westman, E., & Kivipelto, M. (2020). 
 Evaluation of a Novel Psychological Intervention Tailored for Patients With Early Cognitive Impairment (PIPCI): Study Protocol of a Randomized 
 Controlled Trial. Frontiers in Psychology, 11. doi:10.3389/fpsyg.2020.600841. PMID: 33424715. <https://pubmed.ncbi.nlm.nih.gov/33424715/>
 
-5. Wicksell, R. K., Kanstrup, M., Kemani, M. K., Holmström, L., & Olsson, G. L. (2015). Acceptance and Commitment Therapy for children and adolescents with physical health concerns. Current Opinion in Psychology, 2, 1-5. doi:10.1016/j.copsyc.2014.12.029. PMID: N/A.
-<https://www.sciencedirect.com/science/article/abs/pii/S2352250X14000475>
+5. Wicksell, R. K., Kanstrup, M., Kemani, M. K., Holmström, L., & Olsson, G. L. (2015). Acceptance and Commitment Therapy for children and adolescents with physical health concerns. Current Opinion in Psychology, 2, 1-5. doi:10.1016/j.copsyc.2014.12.029. PMID: N/A. <https://www.sciencedirect.com/science/article/abs/pii/S2352250X14000475>
