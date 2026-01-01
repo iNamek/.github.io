@@ -179,17 +179,17 @@ Parental leave, approximately 30%
 
 19. Kemani, M. K., Olsson, G. L., Holmström, L., & Wicksell, R. K. (2016). Exploring Changes in Valued Action in the Presence of Chronic Debilitating Pain in Acceptance and Commitment Therapy for Youth – A Single-Subject Design Study. *Frontiers in Psychology, 7.* doi:10.3389/fpsyg.2016.01984. PMID: 28082933. <https://pubmed.ncbi.nlm.nih.gov/28082933/>
 
-20. *Kemani, M. K., Hesser, H., Olsson, G. L., Lekander, M., & Wicksell, R. K. (2016). Processes of change in Acceptance and Commitment Therapy and Applied Relaxation for long-standing pain. *European Journal of Pain, 20(4), 521–531.* doi:10.1002/ejp.754. PMID: 26684472. <https://pubmed.ncbi.nlm.nih.gov/26684472/>
+20. Kemani, M. K., Hesser, H., Olsson, G. L., Lekander, M., & Wicksell, R. K. (2016). Processes of change in Acceptance and Commitment Therapy and Applied Relaxation for long-standing pain. *European Journal of Pain, 20(4), 521–531.* doi:10.1002/ejp.754. PMID: 26684472. <https://pubmed.ncbi.nlm.nih.gov/26684472/>
 
 21. Kanstrup, M., Wicksell, R. K., Kemani, M., Wiwe Lipsker, C., Lekander, M., & Holmström, L. (2016). A Clinical Pilot Study of Individual and Group Treatment for Adolescents with Chronic Pain and Their Parents: Effects of Acceptance and Commitment Therapy on Functioning. *Children (Basel, Switzerland), 3(4).* doi:10.3390/children3040030. PMID: 27854323. <https://pubmed.ncbi.nlm.nih.gov/2785432322>
 
-22. *Kemani, M. K., Olsson, G. L., Lekander, M., Hesser, H., Andersson, E., & Wicksell, R. K. (2015). Efficacy and Cost-effectiveness of Acceptance and Commitment Therapy and Applied Relaxation for Longstanding Pain: A Randomized Controlled Trial. *Clinical Journal of Pain, 31(11), 1004–1016.* doi:10.1097/AJP.0000000000000203. PMID: 25585272. <https://pubmed.ncbi.nlm.nih.gov/25585272/>
+22. Kemani, M. K., Olsson, G. L., Lekander, M., Hesser, H., Andersson, E., & Wicksell, R. K. (2015). Efficacy and Cost-effectiveness of Acceptance and Commitment Therapy and Applied Relaxation for Longstanding Pain: A Randomized Controlled Trial. *Clinical Journal of Pain, 31(11), 1004–1016.* doi:10.1097/AJP.0000000000000203. PMID: 25585272. <https://pubmed.ncbi.nlm.nih.gov/25585272/>
 
 23. Holmström, L., Kemani, M. K., Kanstrup, M., & Wicksell, R. K. (2015). Evaluating the Statistical Properties of the Pain Interference Index in Children and Adolescents with Chronic Pain. *Journal of Developmental and Behavioral Pediatrics, 36(6), 450–454.* doi:10.1097/DBP.0000000000000191. PMID: 26154714. <https://pubmed.ncbi.nlm.nih.gov/26154714/>
 
 24. Ljótsson, B., Atterlöf, E., Lagerlöf, M., Andersson, E., Jernelöv, S., Hedman, E., Kemani, M., & Wicksell, R. K. (2014). Internet-Delivered Acceptance and Values-Based Exposure Treatment for Fibromyalgia: A Pilot Study. *Cognitive Behaviour Therapy, 43(2), 93–104.* doi:10.1080/16506073.2013.846401. PMID: 24215278. <https://pubmed.ncbi.nlm.nih.gov/24215278/>
 
-25. *Wicksell, R. K., Kemani, M., Jensen, K., Kosek, E., Kadetoff, D., Sorjonen, K., Ingvar, M., & Olsson, G. L. (2013). Acceptance and commitment therapy for fibromyalgia: A randomized controlled trial. *European Journal of Pain, 17(4), 599–611.* doi:10.1002/j.1532-2149.2012.00224.x. PMID: 23090719. <https://pubmed.ncbi.nlm.nih.gov/23090719/>
+25. Wicksell, R. K., Kemani, M., Jensen, K., Kosek, E., Kadetoff, D., Sorjonen, K., Ingvar, M., & Olsson, G. L. (2013). Acceptance and commitment therapy for fibromyalgia: A randomized controlled trial. *European Journal of Pain, 17(4), 599–611.* doi:10.1002/j.1532-2149.2012.00224.x. PMID: 23090719. <https://pubmed.ncbi.nlm.nih.gov/23090719/>
 
 26. Jensen, K. B., Kosek, E., Wicksell, R., Kemani, M., Olsson, G., Merle, J. V., Kadetoff, D., & Ingvar, M. (2012). Cognitive Behavioral Therapy increases pain-evoked activation of the prefrontal cortex in patients with fibromyalgia. *Pain, 153(7), 1495–1503.* doi:10.1016/j.pain.2012.04.010. PMID: 22617632. <https://pubmed.ncbi.nlm.nih.gov/22617632/>
 
