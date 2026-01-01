@@ -4,7 +4,8 @@ Stockholm, Sweden
 
 **Work contact**  
 Phone: +46 72 254 26 26  
-Email: mike.kemani@regionstockholm.se; mike.kemani2@ki.se  
+Email (work): mike.kemani@regionstockholm.se
+Email (research): mike.kemani2@ki.se  
 
 ---
 
@@ -99,7 +100,7 @@ Postdoc in Mari Lundberg’s research group **Back in Motion**
 
 ---
 
-## Docent-level competence {#docent}
+## Docent/Associate professor competence {#docent}
 
 Docent, 2024-08-28  
 
@@ -114,7 +115,7 @@ Verksamhetsutvecklare, klinisk digitalisering/Operations developer, clinical dig
 
 ## Prior positions {#prior-positions}
 **2019–2025**  
-Section Manager, Section of Behavioral Medicine, Department of Medical Psychology, Theme Women’s Health and Allied Health Professionals, Karolinska University Hospital  
+Section Manager, Section Behavioral Medicine, Department of Medical Psychology, Theme Women’s Health and Allied Health Professionals, Karolinska University Hospital  
 
 **2018–2019**  
 Acting Manager, Functional Unit Behavioral Medicine, Karolinska University Hospital  
