@@ -36,11 +36,11 @@ Email: mike.kemani@regionstockholm.se; mike.kemani2@ki.se
 
 ## About {#about}
 
-I am a licensed clinical psychologist and clinical researcher. I currently work at Karolinska Universitetssjukhuset were I support the development of digital and hybrid clinical workflows as part of the organisation’s clinical digital transformation. Additionally, I have extensive leadership experience from managerial roles at Karolinska Universitetssjukhuset, as well as clinical experience in providing cognitive behavioral therapeutic interventions within a healthcare context, and more specificallly in relation to chronic pain.
+I am a licensed clinical psychologist and clinical researcher. I currently work at Karolinska University Hospital, where I support the development of digital and hybrid clinical workflows as part of the organisation’s clinical digital transformation. I also have extensive leadership experience from managerial roles at Karolinska University Hospital, as well as long-standing clinical experience providing cognitive behavioural therapy in healthcare settings, particularly in relation to chronic pain.
 
-My doctoral thesis at Karolinska Institutet focused on the efficacy and processes of change in Acceptance and Commitment Therapy (ACT) for longstanding pain. Research-wise I have thereafter focused on psychometric evaluations of self-report questionnaires in the context of chronic pain, evaluations of behavioral and digital behavioral interventions in healthcare settings, and in projects evaluating relationships between factors related to symptoms in ME (Myalgic Encephalomyeliti)/CFS (Chronic Fatigue Syndrome).
+My doctoral thesis at Karolinska Institutet focused on the efficacy and processes of change in Acceptance and Commitment Therapy (ACT) for longstanding pain. Since then, my research has centred on psychometric evaluation of self-report questionnaires in chronic pain and healthcare contexts, the evaluation of behavioural and digital behavioural interventions in clinical settings, and projects examining relationships between organisational and individual factors among healthcare personnel and symptoms in Post COVID-19 condition and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS).
 
-Currently I am exploring a shift towards research evaluating applied clinical AI-based solutions, non-technical AI safety research, and research related to more theoretical questions relevant to the field of artificial intelligence.
+Currently I am exploring a move towards research on applied clinical AI-based solutions, non-technical AI safety, and more theoretically oriented questions relevant to the field of artificial intelligence.
 
 ---
 
