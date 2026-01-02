@@ -30,6 +30,7 @@ Email: mike.kemani@regionstockholm.se (work); mike.kemani.2@ki.se (research)
   <a href="#prior-positions">Prior positions</a> ·
   <a href="#language-skills">Language skills</a> ·
   <a href="#publications">Scientific publications</a>
+   <a href="#research funding">Scientific publications</a>
 </nav>
 
 ---
@@ -236,3 +237,9 @@ Evaluation of a Novel Psychological Intervention Tailored for Patients With Earl
 Controlled Trial. Frontiers in Psychology, 11. doi:10.3389/fpsyg.2020.600841. PMID: 33424715. <https://pubmed.ncbi.nlm.nih.gov/33424715/>
 
 5. Wicksell, R. K., Kanstrup, M., <B>Kemani, M. K.</B>, Holmström, L., & Olsson, G. L. (2015). Acceptance and Commitment Therapy for children and adolescents with physical health concerns. Current Opinion in Psychology, 2, 1-5. doi:10.1016/j.copsyc.2014.12.029. PMID: N/A. <https://www.sciencedirect.com/science/article/abs/pii/S2352250X14000475>
+
+---
+
+## Research funding {#research funding}
+
+**Work in progress** 
