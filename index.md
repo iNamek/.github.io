@@ -1,5 +1,5 @@
 # Mike Kemani
-Licensed psychologist, PhD, Docent (associate professor) in clinical psychology.
+Licensed psychologist, PhD, docent (associate professor) in clinical psychology.
 Stockholm, Sweden  
 
 **Work contact**  
@@ -41,7 +41,7 @@ I am a licensed clinical psychologist and clinical researcher. I currently work 
 
 My doctoral thesis at Karolinska Institutet focused on the efficacy and processes of change in Acceptance and Commitment Therapy (ACT) for longstanding pain. Since then, my research has centred on psychometric evaluation of self-report questionnaires in chronic pain and healthcare contexts, the evaluation of behavioural and digital behavioural interventions in clinical settings, and projects examining relationships between organisational and individual factors among healthcare personnel, as well as the relationships between individual factors and symptoms in Post COVID-19, and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS).
 
-Currently I am exploring a move towards research on applied clinical AI-based solutions, non-technical AI safety, and more theoretically oriented questions relevant to the field of artificial intelligence. As a side quest, I'm also exploring potential research gaps in the field of conspiracy theories/conspiratorial thinking in the field of healthcare and wellness.
+Currently I am exploring a move towards research on applied clinical AI-based solutions, non-technical AI safety, and more theoretically oriented questions relevant to the field of artificial intelligence. As a side quest, I'm also exploring potential research gaps in the field of conspiracy theories/conspiratorial thinking in healthcare and wellness.
 
 ---
 
@@ -152,7 +152,7 @@ Parental leave, approximately 30%
 ### In manuscript
 1. <B>Kemani M</B>, Holmström L, Gentili C, Rydvik E, Nygren-Bonnier, M, Bragesjö, M. Psychological factors, insomnia and burnout in healthcare personnel in the wake of COVID-19 – a longitudinal observational study 
 
-2. Hanafi R, Karlsson E, <B>Kemani M</B>, Lundberg M. Exploring patient specific outcomes in lumbar fusion surgery.
+2. Hanafi R, Karlsson E, <B>Kemani M</B>, Lundberg M. Exploring patient-specific outcomes in lumbar fusion surgery.
 
 3. Åström J, <B>Kemani M</B>, Ekman U. Taking pain into consideration in patients with Post COVID-19 - its relation to daily functioning and patient sub-groups.
 
