@@ -108,8 +108,8 @@ Docent, 2024-08-28
 
 ## Current position {#current-position}
 
-**2025-03-01**  
-Verksamhetsutvecklare, klinisk digitalisering/Operations developer, clinical digitalization, Theme Women’s Health and Allied Health Professionals, Karolinska University Hospital  
+**2025-03-01-**  
+Operations developer, clinical digitalization (verksamhetsutvecklare, klinisk digitalisering), Theme Women’s Health and Allied Health Professionals, Karolinska University Hospital  
 
 ---
 
@@ -150,11 +150,11 @@ Parental leave, approximately 30%
 - Sum JIF: 78.9
 
 ### In manuscript
-1. Kemani M, Holmström L, Gentili C, Rydvik E, Nygren-Bonnier, M, Bragesjö, M. Psychological factors, insomnia and burnout in healthcare personnel in the wake of covid-19 – a longitudinal observational study 
+1. <B>Kemani M</B>, Holmström L, Gentili C, Rydvik E, Nygren-Bonnier, M, Bragesjö, M. Psychological factors, insomnia and burnout in healthcare personnel in the wake of covid-19 – a longitudinal observational study 
 
-2. Hanafi R, Karlsson E, Kemani M, Lundberg M. Exploring patient specific outcomes in lumbar fusion surgery.
+2. Hanafi R, Karlsson E, <B>Kemani M</B>, Lundberg M. Exploring patient specific outcomes in lumbar fusion surgery.
 
-3. Åström J, Kemani M, Ekman U. Taking pain into consideration in patients with Post COVID-19 - its role in relation to daily functioning and its relationship to individual patients in patient sub-groups.
+3. Åström J, <B>Kemani M</B>, Ekman U. Taking pain into consideration in patients with Post COVID-19 - its relation to daily functioning and patient sub-groups.
 
 ### Under Review
 1. Ernest C, Hanafi R, Brisby H, Fors A, Hedman H, <B>Kemani M</B>, Lundberg M, Nijs J, Zetterberg H, Karlsson E. Get Back, a person-centered digital program to promote physical activity among patients undergoing spinal stenosis surgery: A randomized feasibility study. 
