@@ -44,7 +44,7 @@ I work at **Karolinska University Hospital** and am affiliated with **Karolinska
 
 - **Statistics & AI-assisted R programming**: R (longitudinal models, mixture/latent class models, psychometrics). 
 - **Study designs**: RCTs, longitudinal observational studies, psychometric validation, feasibility and implementation studies. 
-- 📝 **Writing & documentation**: Structured, reproducible workflows; strong preference for transparent methods and open, well-documented code/analysis when possible.
+- **Writing & documentation**: Structured, reproducible workflows; strong preference for transparent methods and open, well-documented code/analysis when possible.
 
 ---
 
