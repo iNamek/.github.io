@@ -1,10 +1,10 @@
 .github.io
-# Hi, I'm Mike
+# README: Mike
 
 **Docent (associate professor), licensed clinical psychologist, PhD**  
 Stockholm, Sweden  
 
-I work at **Karolinska University Hospital** and am affiliated with **Karolinska Institutet**. My background spans leadership in healthcare, applying and implementing clinical psychology within healthcare, research within the field of behavioural medicine and chronic pain. These days I split my time between **clinical digitalisation**, **research**, and exploring how **AI** can be used responsibly in healthcare.
+I work at **Karolinska University Hospital** and am affiliated with **Karolinska Institutet**. My background spans leadership in healthcare, applying and implementing clinical psychology within healthcare, research within the field of behavioral medicine and chronic pain. These days I split my time between **clinical digitalisation**, **research**, and explorations of how I can contribute to **AI** safety and ethics.
 
 ---
 
@@ -51,18 +51,18 @@ I work at **Karolinska University Hospital** and am affiliated with **Karolinska
 ## Where to find more
 
   - **CV & publication list**:  
-  My full CV, publication list, and more details about ongoing work are available here: [Personal CV site (https://inamek.github.io/.github.io/)] <!-- replace with your actual URL -->
+  My full CV, publication list, and more details about ongoing work are available here: https://inamek.github.io/.github.io/
 
-- **Selected publications**:  
-  See the CV site for a structured list of original works, general articles, and book chapters https://inamek.github.io/.github.io/#publications.
+- **Publications**:  
+  Find a list of original scientific articles, general articles, and book chapters as part of the CV-page: https://inamek.github.io/.github.io/#publications.
 
 ---
 
 ## What I’m currently curious about
 
-- How clinical AI tools actually behave “in the wild” – in real clinics, with real constraints.  
+- How clinical narrow AI tools actually behave “in the wild” – in real clinics, with real constraints.  
 - Practical ways to evaluate **AI safety** and robustness from a non-technical/clinical perspective.  
-- How to design digital interventions and workflows that respect both clinicians’ reality and patients’ values.
+- How to design digital interventions and workflows that deliver value and integrate smoothly with the day-to-day reality of clinicians and patients.
 
 ---
 
