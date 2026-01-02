@@ -1,4 +1,3 @@
-.github.io
 # About me 
 
 **Docent (associate professor), licensed clinical psychologist, PhD**  
