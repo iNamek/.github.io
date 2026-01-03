@@ -30,16 +30,17 @@ Email: mike.kemani@regionstockholm.se (work); mike.kemani.2@ki.se (research)
   <a href="#prior-positions">Prior positions</a> ·
   <a href="#language-skills">Language skills</a> ·
   <a href="#publications">Scientific publications</a>
-   <a href="#research funding">Scientific publications</a>
+   <a href="#Ongoing studies">Ongoing studies</a>
+   <a href="#research funding">Research funding</a>
 </nav>
 
 ---
 
 ## About {#about}
 
-I am a licensed clinical psychologist and clinical researcher. I currently work at Karolinska University Hospital, where I support the development of digital and hybrid clinical workflows as part of the organisation’s clinical digital transformation. I also have extensive leadership experience from managerial roles at Karolinska University Hospital, as well as long-standing clinical experience providing cognitive behavioural therapy in healthcare settings, particularly in relation to chronic pain.
+I am a licensed psychologist and clinical researcher. I currently work at the Karolinska University Hospital, where I support the development of digital and hybrid clinical workflows as part of the organization’s clinical digital transformation. I also have extensive leadership experience from managerial roles at Karolinska University Hospital, as well as long-standing clinical experience providing cognitive behavioural therapy in healthcare settings, particularly in relation to chronic pain.
 
-My doctoral thesis at Karolinska Institutet focused on the efficacy and processes of change in Acceptance and Commitment Therapy (ACT) for longstanding pain. Since then, my research has centred on psychometric evaluation of self-report questionnaires in chronic pain and healthcare contexts, the evaluation of behavioural and digital behavioural interventions in clinical settings, and projects examining relationships between organisational and individual factors among healthcare personnel, as well as the relationships between individual factors and symptoms in Post COVID-19, and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS).
+After finishing my doctoral thesis, on the efficacy and processes of change in Acceptance and Commitment Therapy (ACT) for longstanding pain, my research has centred on: the psychometric evaluations of self-report questionnaires related to chronic pain; the evaluation of behavioural and digital behavioural interventions in clinical settings; projects evaluating aspects of health, psychological factors among healthcare personnel, as well as the relationships between individual factors and symptoms in Post COVID-19, and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS).
 
 Currently I am exploring a move towards research on applied clinical AI-based solutions, non-technical AI safety, and more theoretically oriented questions relevant to the field of artificial intelligence. As a side quest, I'm also exploring potential research gaps in the field of conspiracy theories/conspiratorial thinking in healthcare and wellness.
 
@@ -229,17 +230,21 @@ Parental leave, approximately 30%
 
 2. Rydwik, E., Anmyr, L., Regardt, M., McAllister, A., Zarenoe, R., Åkerman, E., Orrevall, Y., Bragesjö, M., Dahl, O., <B>Kemani, M. K.</B>, Nordstrand, L., Ekman, U., Holmström, L., & Nygren-Bonnier, M. (2021). ReCOV: recovery and rehabilitation during and after COVID-19-a study protocol of a longitudinal observational study on patients, next of kin and health care staff. Bmc Sports Science Medicine and Rehabilitation, 13(1). doi:10.1186/s13102-021-00299-9. PMID: 34193260. <https://pubmed.ncbi.nlm.nih.gov/34193260/>
 
-3. Danielson, M., <B>Kemani, M.</B> (2021). When Saga Norén meets neurotypicality: A liminal encounter along The Bridge. Normalizing Mental Illness and 
-Neurodiversity in Entertainment Media: Quieting the Madness. London & New York, Taylor & Francis. 96-109. <https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1553427&dswid=6374>
+3. Danielson, M., <B>Kemani, M.</B> (2021). When Saga Norén meets neurotypicality: A liminal encounter along The Bridge. Normalizing Mental Illness and Neurodiversity in Entertainment Media: Quieting the Madness. London & New York, Taylor & Francis. 96-109. <https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1553427&dswid=6374>
 
-4. Ekman, U., <B>Kemani, M. K.</B>, Wallert, J., Wicksell, R. K., Holmström, L., Ngandu, T., Rennie, A., Akenine, U., Westman, E., & Kivipelto, M. (2020). 
-Evaluation of a Novel Psychological Intervention Tailored for Patients With Early Cognitive Impairment (PIPCI): Study Protocol of a Randomized 
-Controlled Trial. Frontiers in Psychology, 11. doi:10.3389/fpsyg.2020.600841. PMID: 33424715. <https://pubmed.ncbi.nlm.nih.gov/33424715/>
+4. Ekman, U., <B>Kemani, M. K.</B>, Wallert, J., Wicksell, R. K., Holmström, L., Ngandu, T., Rennie, A., Akenine, U., Westman, E., & Kivipelto, M. (2020). Evaluation of a Novel Psychological Intervention Tailored for Patients With Early Cognitive Impairment (PIPCI): Study Protocol of a Randomized Controlled Trial. Frontiers in Psychology, 11. doi:10.3389/fpsyg.2020.600841. PMID: 33424715. <https://pubmed.ncbi.nlm.nih.gov/33424715/>
 
 5. Wicksell, R. K., Kanstrup, M., <B>Kemani, M. K.</B>, Holmström, L., & Olsson, G. L. (2015). Acceptance and Commitment Therapy for children and adolescents with physical health concerns. Current Opinion in Psychology, 2, 1-5. doi:10.1016/j.copsyc.2014.12.029. PMID: N/A. <https://www.sciencedirect.com/science/article/abs/pii/S2352250X14000475>
 
 ---
+## Ongoing studies {#ongoing studies}
+1. Evaluation of ACT for persons with early cognitive impairment - a three-arm randomized controlled trial (collaborator)
+   
+2. Evaluation of an internet-delivered exposure-based psychological intervention for youth and their caregivers - a three-arm randomized controlled trial (collaborator)
 
+3. A feasibility study of an Exposure-based psychological intervention for adolescents with BII-phobia (principal investigator)
+
+---
 ## Research funding {#research funding}
 
 **Work in progress** 
