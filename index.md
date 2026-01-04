@@ -251,6 +251,25 @@ Parental leave, approximately 30%
 <table>
   <thead>
     <tr>
+      <td>Regionala FoU-medel Västra Götalandsregionen</td>
+      <td>Co-applicant</td>
+      <td>Get Back - A Digital, Person-Centred Rehabilitation Program to Increase Daily Steps After Surgery for Lumbar Spinal Stenosis</td>
+      <td>299.000</td>
+      <td>2025</td>
+    </tr>
+    <tr>
+      <td>Region Stockholm</td>
+      <td>Co-applicant</td>
+      <td>Fatigue i fokus - fortsättningen</td>
+      <td>1.500.000</td>
+      <td>2025</td>
+    </tr>
+        <tr>
+      <td>Demensfonden</td>
+      <td>Co-applicant</td>
+      <td>Utvärdering av en nyutvecklad psykologisk behandling för personer med kognitiv svikt i tidiga skeden - fortsättningsansökan</td>
+      <td>300.000</td>
+      <td>2025</td><tr>
       <th>Funder</th>
       <th>PI/Co-applicant</th>
       <th>Project title</th>
@@ -262,72 +281,58 @@ Parental leave, approximately 30%
     <tr>
       <td>Digital Futures (KTH) </td>
       <td>Co-applicant</td>
-      <td>Large-scale delivery of an Internet-based psychological intervention in Region Stockholm using an advanced e-learning platform (QB-ACT). </td>
+      <td>Large-scale delivery of an Internet-based psychological intervention in Region Stockholm using an advanced e-learning platform (QB-ACT).</td>
       <td>1.000.000</td>
       <td>2024-2026 </td>
     </tr>
     <tr>
       <td>Innovationsfonden</td>
       <td>Co-applicant</td>
-      <td>Besegra rädslan - KBT-behandling i hybridformat (digitalt och fysiskt), för barn med blod- och injektionsfobi och samtidig somatisk sjukdom </td>
+      <td>Besegra rädslan - KBT-behandling i hybridformat (digitalt och fysiskt), för barn med blod- och injektionsfobi och samtidig somatisk sjukdom.</td>
       <td>250.000 </td>
       <td>2024 </td>
     </tr>
     <tr>
       <td>ALF Medicin</td>
       <td>Co-applicant</td>
-      <td>tvärdering av en ny psykologisk behandling med syfte att förbättra den psykologisk hälsan för personer med kognitiv svikt</td>
+      <td>Utvärdering av en ny psykologisk behandling med syfte att förbättra den psykologiska hälsan för personer med kognitiv svikt.</td>
       <td>1.500.000</td>
       <td>2024</td>
     </tr>
     <tr>
       <td>Forte</td>
       <td>Co-applicant</td>
-      <td>Fatiguekohorten - En longitudinell studie på post-COVID-19, kroniskt trötthetssyndrom (ME/CFS) och utmattningssyndrom </td>
+      <td>Fatiguekohorten - En longitudinell studie på post-COVID-19, kroniskt trötthetssyndrom (ME/CFS) och utmattningssyndrom.</td>
       <td>4.971.000</td>
       <td>2023</td>
     </tr>
     <tr>
       <td>Vetenskapsrådet </td>
       <td>Co-applicant</td>
-      <td>Get Back - Ett hälsofrämjande personcentrerat prehabiliteringsprogram med avsikt att optimera resultatet av elektiv ryggkirurgi för patienter med störst risk för ohälsa. </td>
+      <td>Get Back - Ett hälsofrämjande personcentrerat prehabiliteringsprogram med avsikt att optimera resultatet av elektiv ryggkirurgi för patienter med störst risk för ohälsa.</td>
       <td>2.400.000 </td>
       <td>2021</td>
     </tr>
     <tr>
-      <td>AFA försäkring </td>
+      <td>AFA försäkring</td>
       <td>Co-applicant</td>
-      <td></td>
+      <td>Get B@ck - ett person-centrerat prehabiliteringsprogram för de mest sårbara patienterna som ska genomgå ryggkirurgi.</td>
       <td>4.700.000</td>
       <td>2019</td>
     </tr>
     <tr>
-      <td>Test</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Sunnerdahls Handikappfond</td>
+      <td>Applicant</td>
+      <td>Reach Out – Interprofessionell KBT för barn och ungdomar med långvarig funktionsnedsättande smärta.</td>
+      <td>100.000 </td>
+      <td>2020</td>
     </tr>
     <tr>
-      <td>Test</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Test</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Test</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Folksam</td>
+      <td>Applicant</td>
+      <td>Inflammation vid långvarig smärta hos barn.</td>
+      <td>490.000</td>
+      <td>2018</td>
     </tr>
   </tbody>
 </table>
