@@ -254,7 +254,7 @@ Parental leave, approximately 30%
       <th>Funder</th>
       <th>PI/Co-applicant</th>
       <th>Project title</th>
-      <th>Amount</th>
+      <th>SEK</th>
       <th>Year</th>
     </tr>
   </thead>
@@ -317,7 +317,7 @@ Parental leave, approximately 30%
     </tr>
     <tr>
       <td>Sunnerdahls Handikappfond</td>
-      <td>Applicant</td>
+      <td>PI</td>
       <td>Reach Out – Interprofessionell KBT för barn och ungdomar med långvarig funktionsnedsättande smärta</td>
       <td>100.000 </td>
       <td>2020</td>
@@ -331,7 +331,7 @@ Parental leave, approximately 30%
     </tr>
     <tr>
       <td>Folksam</td>
-      <td>Applicant</td>
+      <td>PI</td>
       <td>Inflammation vid långvarig smärta hos barn</td>
       <td>490.000</td>
       <td>2018</td>
