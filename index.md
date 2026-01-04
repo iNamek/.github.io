@@ -251,6 +251,15 @@ Parental leave, approximately 30%
 <table>
   <thead>
     <tr>
+    <th>Funder</th>
+      <th>PI/Co-applicant</th>
+      <th>Project title</th>
+      <th>Amount</th>
+      <th>Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
       <td>Regionala FoU-medel Västra Götalandsregionen</td>
       <td>Co-applicant</td>
       <td>Get Back - A Digital, Person-Centred Rehabilitation Program to Increase Daily Steps After Surgery for Lumbar Spinal Stenosis</td>
@@ -264,20 +273,13 @@ Parental leave, approximately 30%
       <td>1.500.000</td>
       <td>2025</td>
     </tr>
-        <tr>
+    <tr>
       <td>Demensfonden</td>
       <td>Co-applicant</td>
       <td>Utvärdering av en nyutvecklad psykologisk behandling för personer med kognitiv svikt i tidiga skeden - fortsättningsansökan</td>
       <td>300.000</td>
       <td>2025</td><tr>
-      <th>Funder</th>
-      <th>PI/Co-applicant</th>
-      <th>Project title</th>
-      <th>Amount</th>
-      <th>Year</th>
     </tr>
-  </thead>
-  <tbody>
     <tr>
       <td>Digital Futures (KTH) </td>
       <td>Co-applicant</td>
