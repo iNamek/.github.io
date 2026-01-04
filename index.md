@@ -267,39 +267,39 @@ Parental leave, approximately 30%
       <td>2024-2026 </td>
     </tr>
     <tr>
-      <td>Test</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Innovationsfonden</td>
+      <td>Co-applicant</td>
+      <td>Besegra rädslan - KBT-behandling i hybridformat (digitalt och fysiskt), för barn med blod- och injektionsfobi och samtidig somatisk sjukdom </td>
+      <td>250.000 </td>
+      <td>2024 </td>
     </tr>
     <tr>
-      <td>Test</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>ALF Medicin</td>
+      <td>Co-applicant</td>
+      <td>tvärdering av en ny psykologisk behandling med syfte att förbättra den psykologisk hälsan för personer med kognitiv svikt</td>
+      <td>1.500.000</td>
+      <td>2024</td>
     </tr>
     <tr>
-      <td>Test</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Forte</td>
+      <td>Co-applicant</td>
+      <td>Fatiguekohorten - En longitudinell studie på post-COVID-19, kroniskt trötthetssyndrom (ME/CFS) och utmattningssyndrom </td>
+      <td>4.971.000</td>
+      <td>2023</td>
     </tr>
     <tr>
-      <td>Test</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>Vetenskapsrådet </td>
+      <td>Co-applicant</td>
+      <td>Get Back - Ett hälsofrämjande personcentrerat prehabiliteringsprogram med avsikt att optimera resultatet av elektiv ryggkirurgi för patienter med störst risk för ohälsa. </td>
+      <td>2.400.000 </td>
+      <td>2021</td>
     </tr>
     <tr>
-      <td>Test</td>
+      <td>AFA försäkring </td>
+      <td>Co-applicant</td>
       <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>4.700.000</td>
+      <td>2019</td>
     </tr>
     <tr>
       <td>Test</td>
