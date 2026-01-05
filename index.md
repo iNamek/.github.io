@@ -8,7 +8,7 @@ Email: mike.kemani@regionstockholm.se (work); mike.kemani.2@ki.se (research)
 
 ---
 
-<style>
+<style><--
   .sticky-nav {
     position: sticky;
     top: 0;
@@ -16,6 +16,58 @@ Email: mike.kemani@regionstockholm.se (work); mike.kemani.2@ki.se (research)
     padding: 0.5rem 0;
     border-bottom: 1px solid #ddd;
     z-index: 1000;
+  }
+</style>
+
+<style>
+  .table-wrapper {
+    overflow-x: auto;
+    max-width: 100%;
+  }
+
+  table.grants-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+
+  table.grants-table th,
+  table.grants-table td {
+    padding: 0.4rem 0.6rem;
+    border-bottom: 1px solid #ddd;
+    text-align: left;
+  }
+
+  /* Mobile layout */
+  @media (max-width: 700px) {
+    table.grants-table thead {
+      display: none;
+    }
+
+    table.grants-table,
+    table.grants-table tbody,
+    table.grants-table tr,
+    table.grants-table td {
+      display: block;
+      width: 100%;
+    }
+
+    table.grants-table tr {
+      margin-bottom: 0.9rem;
+      padding-bottom: 0.6rem;
+      border-bottom: 2px solid #eee;
+    }
+
+    table.grants-table td {
+      border-bottom: none;
+      font-size: 0.9rem;
+    }
+
+    table.grants-table td::before {
+      content: attr(data-label) ": ";
+      font-weight: bold;
+      display: inline-block;
+      margin-right: 0.3rem;
+    }
   }
 </style>
 
@@ -248,93 +300,95 @@ Parental leave, approximately 30%
 ---
 ## Research funding {#research-funding}
 
-<table>
-  <thead>
-    <tr>
-      <th>Funder</th>
-      <th>PI/Co-applicant</th>
-      <th>Project title</th>
-      <th>SEK</th>
-      <th>Year</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Regionala FoU-medel Västra Götalandsregionen</td>
-      <td>Co-applicant</td>
-      <td>Get Back - A Digital, Person-Centred Rehabilitation Program to Increase Daily Steps After Surgery for Lumbar Spinal Stenosis</td>
-      <td>299.000</td>
-      <td>2025</td>
-    </tr>
-    <tr>
-      <td>Region Stockholm</td>
-      <td>Co-applicant</td>
-      <td>Fatigue i fokus - fortsättningen</td>
-      <td>1.500.000</td>
-      <td>2025</td>
-    </tr>
-    <tr>
-      <td>Demensfonden</td>
-      <td>Co-applicant</td>
-      <td>Utvärdering av en nyutvecklad psykologisk behandling för personer med kognitiv svikt i tidiga skeden - fortsättningsansökan</td>
-      <td>300.000</td>
-      <td>2025</td>
-    </tr>
-    <tr>
-      <td>Digital Futures (KTH)</td>
-      <td>Co-applicant</td>
-      <td>Large-scale delivery of an Internet-based psychological intervention in Region Stockholm using an advanced e-learning platform (QB-ACT)</td>
-      <td>1.000.000</td>
-      <td>2024–2026</td>
-    </tr>
-    <tr>
-      <td>Innovationsfonden</td>
-      <td>Co-applicant</td>
-      <td>Besegra rädslan - KBT-behandling i hybridformat (digitalt och fysiskt), för barn med blod- och injektionsfobi och samtidig somatisk sjukdom</td>
-      <td>250.000</td>
-      <td>2024</td>
-    </tr>
-    <tr>
-      <td>ALF Medicin</td>
-      <td>Co-applicant</td>
-      <td>Utvärdering av en ny psykologisk behandling med syfte att förbättra den psykologiska hälsan för personer med kognitiv svikt</td>
-      <td>1.500.000</td>
-      <td>2024</td>
-    </tr>
-    <tr>
-      <td>Forte</td>
-      <td>Co-applicant</td>
-      <td>Fatiguekohorten - En longitudinell studie på post-COVID-19, kroniskt trötthetssyndrom (ME/CFS) och utmattningssyndrom</td>
-      <td>4.971.000</td>
-      <td>2023</td>
-    </tr>
-    <tr>
-      <td>Vetenskapsrådet</td>
-      <td>Co-applicant</td>
-      <td>Get Back - Ett hälsofrämjande personcentrerat prehabiliteringsprogram med avsikt att optimera resultatet av elektiv ryggkirurgi för patienter med störst risk för ohälsa</td>
-      <td>2.400.000</td>
-      <td>2021</td>
-    </tr>
-    <tr>
-      <td>Sunnerdahls Handikappfond</td>
-      <td>PI</td>
-      <td>Reach Out – Interprofessionell KBT för barn och ungdomar med långvarig funktionsnedsättande smärta</td>
-      <td>100.000</td>
-      <td>2020</td>
-    </tr>
-    <tr>
-      <td>AFA försäkring</td>
-      <td>Co-applicant</td>
-      <td>Get B@ck - ett person-centrerat prehabiliteringsprogram för de mest sårbara patienterna som ska genomgå ryggkirurgi</td>
-      <td>4.700.000</td>
-      <td>2019</td>
-    </tr>
-    <tr>
-      <td>Folksam</td>
-      <td>PI</td>
-      <td>Inflammation vid långvarig smärta hos barn</td>
-      <td>490.000</td>
-      <td>2018</td>
-    </tr>
-  </tbody>
-</table>
+<div class="table-wrapper">
+  <table class="grants-table">
+    <thead>
+      <tr>
+        <th>Funder</th>
+        <th>PI/Co-applicant</th>
+        <th>Project title</th>
+        <th>SEK</th>
+        <th>Year</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td data-label="Funder">Regionala FoU-medel Västra Götalandsregionen</td>
+        <td data-label="PI/Co-applicant">Co-applicant</td>
+        <td data-label="Project title">Get Back - A Digital, Person-Centred Rehabilitation Program to Increase Daily Steps After Surgery for Lumbar Spinal Stenosis</td>
+        <td data-label="SEK">299.000</td>
+        <td data-label="Year">2025</td>
+      </tr>
+      <tr>
+        <td data-label="Funder">Region Stockholm</td>
+        <td data-label="PI/Co-applicant">Co-applicant</td>
+        <td data-label="Project title">Fatigue i fokus - fortsättningen</td>
+        <td data-label="SEK">1.500.000</td>
+        <td data-label="Year">2025</td>
+      </tr>
+      <tr>
+        <td data-label="Funder">Demensfonden</td>
+        <td data-label="PI/Co-applicant">Co-applicant</td>
+        <td data-label="Project title">Utvärdering av en nyutvecklad psykologisk behandling för personer med kognitiv svikt i tidiga skeden - fortsättningsansökan</td>
+        <td data-label="SEK">300.000</td>
+        <td data-label="Year">2025</td>
+      </tr>
+      <tr>
+        <td data-label="Funder">Digital Futures (KTH)</td>
+        <td data-label="PI/Co-applicant">Co-applicant</td>
+        <td data-label="Project title">Large-scale delivery of an Internet-based psychological intervention in Region Stockholm using an advanced e-learning platform (QB-ACT)</td>
+        <td data-label="SEK">1.000.000</td>
+        <td data-label="Year">2024–2026</td>
+      </tr>
+      <tr>
+        <td data-label="Funder">Innovationsfonden</td>
+        <td data-label="PI/Co-applicant">Co-applicant</td>
+        <td data-label="Project title">Besegra rädslan - KBT-behandling i hybridformat (digitalt och fysiskt), för barn med blod- och injektionsfobi och samtidig somatisk sjukdom</td>
+        <td data-label="SEK">250.000</td>
+        <td data-label="Year">2024</td>
+      </tr>
+      <tr>
+        <td data-label="Funder">ALF Medicin</td>
+        <td data-label="PI/Co-applicant">Co-applicant</td>
+        <td data-label="Project title">Utvärdering av en ny psykologisk behandling med syfte att förbättra den psykologiska hälsan för personer med kognitiv svikt</td>
+        <td data-label="SEK">1.500.000</td>
+        <td data-label="Year">2024</td>
+      </tr>
+      <tr>
+        <td data-label="Funder">Forte</td>
+        <td data-label="PI/Co-applicant">Co-applicant</td>
+        <td data-label="Project title">Fatiguekohorten - En longitudinell studie på post-COVID-19, kroniskt trötthetssyndrom (ME/CFS) och utmattningssyndrom</td>
+        <td data-label="SEK">4.971.000</td>
+        <td data-label="Year">2023</td>
+      </tr>
+      <tr>
+        <td data-label="Funder">Vetenskapsrådet</td>
+        <td data-label="PI/Co-applicant">Co-applicant</td>
+        <td data-label="Project title">Get Back - Ett hälsofrämjande personcentrerat prehabiliteringsprogram med avsikt att optimera resultatet av elektiv ryggkirurgi för patienter med störst risk för ohälsa</td>
+        <td data-label="SEK">2.400.000</td>
+        <td data-label="Year">2021</td>
+      </tr>
+      <tr>
+        <td data-label="Funder">Sunnerdahls Handikappfond</td>
+        <td data-label="PI/Co-applicant">PI</td>
+        <td data-label="Project title">Reach Out – Interprofessionell KBT för barn och ungdomar med långvarig funktionsnedsättande smärta</td>
+        <td data-label="SEK">100.000</td>
+        <td data-label="Year">2020</td>
+      </tr>
+      <tr>
+        <td data-label="Funder">AFA försäkring</td>
+        <td data-label="PI/Co-applicant">Co-applicant</td>
+        <td data-label="Project title">Get B@ck - ett person-centrerat prehabiliteringsprogram för de mest sårbara patienterna som ska genomgå ryggkirurgi</td>
+        <td data-label="SEK">4.700.000</td>
+        <td data-label="Year">2019</td>
+      </tr>
+      <tr>
+        <td data-label="Funder">Folksam</td>
+        <td data-label="PI/Co-applicant">PI</td>
+        <td data-label="Project title">Inflammation vid långvarig smärta hos barn</td>
+        <td data-label="SEK">490.000</td>
+        <td data-label="Year">2018</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
