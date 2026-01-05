@@ -105,6 +105,38 @@ Currently I'm exploring a move towards research on applied clinical AI-based sol
 
 ---
 
+## Current position {#current-position}
+
+**2025-03-01-**  
+Operations developer, clinical digitalization (verksamhetsutvecklare, klinisk digitalisering), Theme Women’s Health and Allied Health Professionals, Karolinska University Hospital  
+
+---
+
+## Prior positions {#prior-positions}
+**2019–2025**  
+Section Manager, Section Behavioral Medicine, Department of Medical Psychology, Theme Women’s Health and Allied Health Professionals, Karolinska University Hospital  
+
+**2018–2019**  
+Acting Manager, Functional Unit Behavioral Medicine, Karolinska University Hospital  
+
+**2009–2017** 
+Clinical Psychologist, Karolinska University Hospital  
+
+**2007–2008** 
+Psychologist in training (Praktisk Tjänstgöring för Psykologer; PTP),  
+Karolinska University Hospital, Smärtbehandlingsenheten, Psykologkliniken  
+
+**2000-2003** 
+System Verification Test Developer – WCDMA Radio Base Stations, Ericsson Radio Systems AB
+
+**1999-2000** 
+Process Planner for Surface-Mount Technology (SMT), Production Engineering (Processberedeare för SMD inom produktionsteknik), Ericsson Radio Access AB  
+
+**1995-1999** 
+Surface-Mount Technology (SMT) Operator (SMD-operatör), Ericsson Radio Access AB
+
+---
+
 ## Courses and degrees {#courses-degrees}
 
 **2024**  
@@ -173,38 +205,6 @@ Postdoc in Professor Mari Lundberg’s research group **Back in Motion**
 ## Docent/Associate professor competence {#docent}
 
 Docent, 2024-08-28  
-
----
-
-## Current position {#current-position}
-
-**2025-03-01-**  
-Operations developer, clinical digitalization (verksamhetsutvecklare, klinisk digitalisering), Theme Women’s Health and Allied Health Professionals, Karolinska University Hospital  
-
----
-
-## Prior positions {#prior-positions}
-**2019–2025**  
-Section Manager, Section Behavioral Medicine, Department of Medical Psychology, Theme Women’s Health and Allied Health Professionals, Karolinska University Hospital  
-
-**2018–2019**  
-Acting Manager, Functional Unit Behavioral Medicine, Karolinska University Hospital  
-
-**2009–2017** 
-Clinical Psychologist, Karolinska University Hospital  
-
-**2007–2008** 
-Psychologist in training (Praktisk Tjänstgöring för Psykologer; PTP),  
-Karolinska University Hospital, Smärtbehandlingsenheten, Psykologkliniken  
-
-**200-2003** 
-System Verification Test Developer – WCDMA Radio Base Stations, Ericsson Radio Systems AB
-
-**1999-2000** 
-Process Planner for Surface-Mount Technology (SMT), Production Engineering (Processberedeare för SMD inom produktionsteknik), Ericsson Radio Access AB  
-
-**1995-1999** 
-Surface-Mount Technology (SMT) Operator (SMD-operatör), Ericsson Radio Access AB
 
 ---
 
