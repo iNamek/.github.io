@@ -51,9 +51,9 @@
   <a href="#about">About me</a> ·
   <a href="#what">What I do</a> ·
   <a href="#research-interests">Research Interests</a> ·
-  <a href="#tools">Tools & methods I use</a> ·
-  <a href="#more">Where to find more</a> ·
-  <a href="#curios">What I'm currently curios about</a> ·
+  <a href="#tools-i-use">Tools & methods I use</a> ·
+  <a href="#find-more">Where to find more</a> ·
+  <a href="#curios-about">What I'm currently curios about</a> ·
 </nav>
 
 # About me {#about}
@@ -93,7 +93,7 @@ I work at **Karolinska University Hospital** and am affiliated with **Karolinska
 
 ---
 
-## Tools & methods I use {#tools}
+## Tools & methods I use {#tools-i-use}
 
 - **Statistics & AI-assisted R programming**: R (longitudinal models, mixture/latent class models, psychometrics). 
 - **Study designs**: RCTs, longitudinal observational studies, psychometric validation, feasibility and implementation studies. 
@@ -101,7 +101,7 @@ I work at **Karolinska University Hospital** and am affiliated with **Karolinska
 
 ---
 
-## Where to find more {#more}
+## Where to find more {#find-more}
 
   - **CV & publication list**:  
   My full CV, publication list, and more details about ongoing work are available here: https://inamek.github.io/.github.io/
@@ -111,7 +111,7 @@ I work at **Karolinska University Hospital** and am affiliated with **Karolinska
 
 ---
 
-## What I’m currently curious about {#curios}
+## What I’m currently curious about {#curios-about}
 
 - How clinical narrow AI tools actually behave “in the wild” – in real clinics, with real constraints.  
 - Practical ways to evaluate **AI safety** and robustness from a non-technical/clinical perspective.  
