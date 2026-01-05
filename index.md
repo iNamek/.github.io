@@ -214,16 +214,16 @@ Docent, 2024-08-28
 ## Research supervision {#supervision}
 
 **Ongoing supervision of a PhD candidate, serving as co-supervisor**  
-R Hanafi: Date of registration, 2021/02/11, Department of Health Promoting Science, Sophiahemmet University Stockholm. Title of doctoral project: Get B@ck - a person-centred prehabilitation program for the most vulnerable patients planned for lumbar spine surgery. Half time seminar: 2024/02/15. Main Supervisor: M Lundberg Department of Health Promoting Science, Sophiahemmet University Stockholm (certificate 16). 
+R Hanafi: Date of registration, 2021/02/11, Department of Health Promoting Science, Sophiahemmet University Stockholm. Title of doctoral project: Get B@ck - a person-centred prehabilitation program for the most vulnerable patients planned for lumbar spine surgery. Half time seminar: 2024/02/15. Main Supervisor: M Lundberg Department of Health Promoting Science, Sophiahemmet University Stockholm.
 
-M gyllenhammar: Date of registration, 2022/11/10, Department of Neurobiology, Care Sciences and Society (NVS), Karolinska Institutet. Title of doctoral project: Evaluation of a Psychological Intervention Tailored for Patients with Early Cognitive Impairment. Main Supervisor: U Ekman, Department of Neurobiology, Care Sciences and Society (NVS), Karolinska Institutet (certificate 15).
+M gyllenhammar: Date of registration, 2022/11/10, Department of Neurobiology, Care Sciences and Society (NVS), Karolinska Institutet. Title of doctoral project: Evaluation of a Psychological Intervention Tailored for Patients with Early Cognitive Impairment. Main Supervisor: U Ekman, Department of Neurobiology, Care Sciences and Society (NVS), Karolinska Institutet.
 
 **PhD candidates supervised up to the defence of the candidate’s doctoral thesis, serving as co-supervisor**  
-U Wallbing: Date of thesis defence, 2022/09/09, Institute of Health and Care Sciences, Sahlgrenska Academy, University of Gothenburg. Thesis title: Help Overcoming Pain Early (HOPE) - a person-centred intervention for adolescents with chronic pain in a school setting. Main Supervisor: S Nilsson, Institute of Health and Care Sciences, Sahlgrenska Academy, University of Gothenburg (certificate 18). 
+U Wallbing: Date of thesis defence, 2022/09/09, Institute of Health and Care Sciences, Sahlgrenska Academy, University of Gothenburg. Thesis title: Help Overcoming Pain Early (HOPE) - a person-centred intervention for adolescents with chronic pain in a school setting. Main Supervisor: S Nilsson, Institute of Health and Care Sciences, Sahlgrenska Academy, University of Gothenburg. 
 
-J Åström: Date of thesis defence, 2022/06/14, Department of Clinical Neurosicence, Karolinska Institutet. Thesis title: Psychological factors, sickness behavior and inflammatory biomarkers in longstanding pain. Main Supervisor: R Wicksell, Department of Clinical Neurosicence, Karolinska Institutet (certificate 19) 
+J Åström: Date of thesis defence, 2022/06/14, Department of Clinical Neurosicence, Karolinska Institutet. Thesis title: Psychological factors, sickness behavior and inflammatory biomarkers in longstanding pain. Main Supervisor: R Wicksell, Department of Clinical Neurosicence, Karolinska Institutet. 
 
-J Holmgren: Date of thesis defence, 2022/05/20, Department of Clinical Neurosicence, Karolinska Institutet. Thesis title: Psychological factors and communication skills training in intensive care medical staff. Main Supervisor: R Wicksell, Department of Clinical Neurosicence, Karolinska Institutet (certificate 20). 
+J Holmgren: Date of thesis defence, 2022/05/20, Department of Clinical Neurosicence, Karolinska Institutet. Thesis title: Psychological factors and communication skills training in intensive care medical staff. Main Supervisor: R Wicksell, Department of Clinical Neurosicence, Karolinska Institutet. 
 
 ---
 
