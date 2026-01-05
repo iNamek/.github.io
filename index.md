@@ -67,7 +67,7 @@
   /* Offset for anchored headings so they don't end up under the sticky nav */
   h2[id],
   h3[id] {
-    scroll-margin-top: 80px; /* adjust if your nav is taller/shorter */
+    scroll-margin-top: 120px; /* adjust if your nav is taller/shorter */
   }
 </style>
 
