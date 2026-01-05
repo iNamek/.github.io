@@ -34,8 +34,6 @@
   <a href="/links">Links & resources</a>
 </nav>
 
----
-
 # Links & resources
 
 A collection of links to resources I find useful or interesting.
