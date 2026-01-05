@@ -129,6 +129,8 @@ M.Sc. in Psychology (psykologexamen), Stockholm University
 B.Sc. in Theoretical Philosophy, Stockholm University  
 
 **<2003**
+Upper Secondary Engineering Diploma, Mechanical Engineering (1994-1995; Gymnasieingenjör, maskinteknik)
+
 Associate's degree in mechanical engineering from the Royal Institute of Technology (1993-1994; completed 33 credits towards a degree, of 120 credits)
 
 3-year Technical Upper Secondary Programme, Mechanical Engineering specialisation (1992; Teknisk linje, 3-årig maskinteknisk gren)
