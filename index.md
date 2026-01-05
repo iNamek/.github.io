@@ -185,7 +185,7 @@ Associate's degree in mechanical engineering from the Royal Institute of Technol
 Department of Clinical Neuroscience  
 
 **Title of dissertation**  
-*Efficacy and processes of change in Acceptance and Commitment Therapy for Longstanding Pain*. Link to thesis: <https://openarchive.ki.se/articles/thesis/Efficacy_and_processes_of_change_in_acceptance_and_commitment_therapy_for_chronic_pain/26912881?file=48956956>  
+*Efficacy and processes of change in Acceptance and Commitment Therapy for Longstanding Pain*. Link to dissertation: <https://openarchive.ki.se/articles/thesis/Efficacy_and_processes_of_change_in_acceptance_and_commitment_therapy_for_chronic_pain/26912881?file=48956956>  
 
 **Supervisors**  
 - Main supervisor: Med Dr. Rikard Wicksell  
