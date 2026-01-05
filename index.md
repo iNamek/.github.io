@@ -59,6 +59,18 @@
     border-bottom: 1px solid #ddd;
     z-index: 1000;
   }
+  /* Smooth scrolling is nice but optional */
+  html {
+    scroll-behavior: smooth;
+  }
+
+  /* Offset for anchored headings so they don't end up under the sticky nav */
+  h2[id],
+  h3[id] {
+    scroll-margin-top: 80px; /* adjust if your nav is taller/shorter */
+  }
+</style>
+  
 </style>
 
 # Curriculum Vitae: Mike Kemani
