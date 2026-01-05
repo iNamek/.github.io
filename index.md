@@ -119,20 +119,20 @@ Section Manager, Section Behavioral Medicine, Department of Medical Psychology, 
 **2018–2019**  
 Acting Manager, Functional Unit Behavioral Medicine, Karolinska University Hospital  
 
-**2009–2017** 
+**2009–2017**  
 Clinical Psychologist, Karolinska University Hospital  
 
-**2007–2008** 
+**2007–2008**  
 Psychologist in training (Praktisk Tjänstgöring för Psykologer; PTP),  
 Karolinska University Hospital, Smärtbehandlingsenheten, Psykologkliniken  
 
-**2000-2003** 
+**2000-2003**  
 System Verification Test Developer – WCDMA Radio Base Stations, Ericsson Radio Systems AB
 
-**1999-2000** 
+**1999-2000**  
 Process Planner for Surface-Mount Technology (SMT), Production Engineering (Processberedeare för SMD inom produktionsteknik), Ericsson Radio Access AB  
 
-**1995-1999** 
+**1995-1999**  
 Surface-Mount Technology (SMT) Operator (SMD-operatör), Ericsson Radio Access AB
 
 ---
