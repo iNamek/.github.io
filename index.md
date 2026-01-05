@@ -278,21 +278,21 @@ Parental leave, approximately 30%
       <td>Co-applicant</td>
       <td>Utvärdering av en nyutvecklad psykologisk behandling för personer med kognitiv svikt i tidiga skeden - fortsättningsansökan</td>
       <td>300.000</td>
-      <td>2025</td><tr>
+      <td>2025</td>
     </tr>
     <tr>
-      <td>Digital Futures (KTH) </td>
+      <td>Digital Futures (KTH)</td>
       <td>Co-applicant</td>
       <td>Large-scale delivery of an Internet-based psychological intervention in Region Stockholm using an advanced e-learning platform (QB-ACT)</td>
       <td>1.000.000</td>
-      <td>2024-2026 </td>
+      <td>2024–2026</td>
     </tr>
     <tr>
       <td>Innovationsfonden</td>
       <td>Co-applicant</td>
       <td>Besegra rädslan - KBT-behandling i hybridformat (digitalt och fysiskt), för barn med blod- och injektionsfobi och samtidig somatisk sjukdom</td>
-      <td>250.000 </td>
-      <td>2024 </td>
+      <td>250.000</td>
+      <td>2024</td>
     </tr>
     <tr>
       <td>ALF Medicin</td>
@@ -309,17 +309,17 @@ Parental leave, approximately 30%
       <td>2023</td>
     </tr>
     <tr>
-      <td>Vetenskapsrådet </td>
+      <td>Vetenskapsrådet</td>
       <td>Co-applicant</td>
       <td>Get Back - Ett hälsofrämjande personcentrerat prehabiliteringsprogram med avsikt att optimera resultatet av elektiv ryggkirurgi för patienter med störst risk för ohälsa</td>
-      <td>2.400.000 </td>
+      <td>2.400.000</td>
       <td>2021</td>
     </tr>
     <tr>
       <td>Sunnerdahls Handikappfond</td>
       <td>PI</td>
       <td>Reach Out – Interprofessionell KBT för barn och ungdomar med långvarig funktionsnedsättande smärta</td>
-      <td>100.000 </td>
+      <td>100.000</td>
       <td>2020</td>
     </tr>
     <tr>
