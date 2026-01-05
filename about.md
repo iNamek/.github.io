@@ -82,7 +82,7 @@ I work at **Karolinska University Hospital** and am affiliated with **Karolinska
 
 ---
 
-## Research interests {#resesarch-interests}
+## Research interests {#research-interests}
 
 - Chronic pain, ACT, processes of change  
 - Digital and hybrid care interventions  
