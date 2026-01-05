@@ -131,13 +131,13 @@ M.Sc. in Psychology (psykologexamen), Stockholm University
 B.Sc. in Theoretical Philosophy, Stockholm University  
 
 **1994-1995**  
-Upper Secondary Engineering Diploma, Mechanical Engineering (1994-1995; Gymnasieingenjör, maskinteknik)
+Upper Secondary Engineering Diploma, Mechanical Engineering (Gymnasieingenjör, maskinteknik)
 
 **1993-1994**  
-Associate's degree in mechanical engineering from the Royal Institute of Technology (1993-1994; completed 33 credits towards a degree, of 120 credits)
+Associate's degree in mechanical engineering from the Royal Institute of Technology (completed 33 credits towards a degree, of 120 credits)
 
 **1989-1992**
-3-year Technical Upper Secondary Programme, Mechanical Engineering specialisation (1992; Teknisk linje, 3-årig maskinteknisk gren)
+3-year Technical Upper Secondary Programme, Mechanical Engineering specialisation (Teknisk linje, 3-årig maskinteknisk gren)
 
 ---
 
@@ -190,20 +190,21 @@ Section Manager, Section Behavioral Medicine, Department of Medical Psychology, 
 **2018–2019**  
 Acting Manager, Functional Unit Behavioral Medicine, Karolinska University Hospital  
 
-**2009–2017**  
+**2009–2017** 
 Clinical Psychologist, Karolinska University Hospital  
 
-**2007–2008**  
+**2007–2008** 
 Psychologist in training (Praktisk Tjänstgöring för Psykologer; PTP),  
 Karolinska University Hospital, Smärtbehandlingsenheten, Psykologkliniken  
 
-**1995-2003** 
-Ericsson Radio Systems AB 
-2000-2003; System Verification Test Developer – WCDMA Radio Base Stations
+**200-2003** 
+System Verification Test Developer – WCDMA Radio Base Stations, Ericsson Radio Systems AB
 
-Ericsson Radio Access AB 
-1999-2000; Process Planner for Surface-Mount Technology (SMT), Production Engineering (Processberedeare för SMD inom produktionsteknik) 
-1995-1999; Surface-Mount Technology (SMT) Operator (SMD-operatör)
+**1999-2000** 
+Process Planner for Surface-Mount Technology (SMT), Production Engineering (Processberedeare för SMD inom produktionsteknik), Ericsson Radio Access AB  
+
+**1995-1999** 
+Surface-Mount Technology (SMT) Operator (SMD-operatör), Ericsson Radio Access AB
 
 ---
 
