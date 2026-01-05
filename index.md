@@ -19,6 +19,20 @@ Email: mike.kemani@regionstockholm.se (work); mike.kemani.2@ki.se (research)
   }
 </style>
 
+<nav class="sticky-nav">
+  <a href="#about">About</a> ·
+  <a href="#personal-data">Personal data</a> ·
+  <a href="#courses-degrees">Courses & degrees</a> ·
+  <a href="#doctoral-degree">Doctoral degree</a> ·
+  <a href="#postdoc">Postdoc appointments</a> ·
+  <a href="#docent">Docent-level competence</a> ·
+  <a href="#current-position">Current position</a> ·
+  <a href="#prior-positions">Prior positions</a> ·
+  <a href="#publications">Scientific publications</a> ·
+  <a href="#ongoing-studies">Ongoing studies</a> ·
+  <a href="#research-funding">Research funding</a>
+</nav>
+
 <style>
   .table-wrapper {
     overflow-x: auto;
@@ -71,21 +85,6 @@ Email: mike.kemani@regionstockholm.se (work); mike.kemani.2@ki.se (research)
   }
 </style>
 
-<nav class="sticky-nav">
-  <a href="#about">About</a> ·
-  <a href="#personal-data">Personal data</a> ·
-  <a href="#courses-degrees">Courses & degrees</a> ·
-  <a href="#doctoral-degree">Doctoral degree</a> ·
-  <a href="#postdoc">Postdoc appointments</a> ·
-  <a href="#docent">Docent-level competence</a> ·
-  <a href="#current-position">Current position</a> ·
-  <a href="#prior-positions">Prior positions</a> ·
-  <a href="#language-skills">Language skills</a> ·
-  <a href="#publications">Scientific publications</a> ·
-  <a href="#ongoing-studies">Ongoing studies</a> ·
-  <a href="#research-funding">Research funding</a>
-</nav>
-
 ---
 
 ## About {#about}
@@ -94,21 +93,25 @@ I am a licensed psychologist and clinical researcher. I currently work at the Ka
 
 After finishing my doctoral thesis, on the efficacy and processes of change in Acceptance and Commitment Therapy (ACT) for longstanding pain, my research has centred on: the psychometric evaluations of self-report questionnaires related to chronic pain; the evaluation of behavioural and digital behavioural interventions in clinical settings; projects evaluating aspects of health, psychological factors among healthcare personnel, as well as the relationships between individual factors and symptoms in Post COVID-19, and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS).
 
-Currently I am exploring a move towards research on applied clinical AI-based solutions, non-technical AI safety, and more theoretically oriented questions relevant to the field of artificial intelligence. As a side quest, I'm also exploring potential research gaps in the field of conspiracy theories/conspiratorial thinking in healthcare and wellness.
+Currently I'm exploring a move towards research on applied clinical AI-based solutions, non-technical AI safety, and more theoretically oriented questions relevant to the field of learning and artificial intelligence. As a side quest, I'm also exploring potential research gaps in the field of conspiracy theories/conspiratorial thinking in healthcare and wellness.
 
 ---
 
 ## Personal data {#personal-data}
 
-**Name**  
-Mike Kemani  
-
-**Date of birth**  
-1973-01-20  
+Name: Mike Kemani  
+Year of birth: 1973  
+Languages: Swedish (native speaker); English (near-native speaker)
 
 ---
 
 ## Courses and degrees {#courses-degrees}
+
+**>2015**
+Applied artificial intelligence (AI) in healthcare, Karolinska Institutet (2024-06-28; 15 credits)
+Pedagogy for Doctoral Supervisors (PDS), Karolinska Institutet (2023-05; 3 credits) 
+Teaching and learning in higher education distance (GHPD), Karolinska institutet (2023-05; 7.5 credits)
+Introductory Doctoral Supervision, Karolinska Institutet (2016-05; 1.5 credits)
 
 **2010–2015**  
 PhD program, Karolinska Institutet  
@@ -121,6 +124,10 @@ M.Sc. in Psychology (psykologexamen), Stockholm University
 
 **2003–2006**  
 B.Sc. in Theoretical Philosophy, Stockholm University  
+
+**<2003**
+Associate's degree in mechanical engineering from the Royal Institute of Technology (1993-1994; completed 33 credits towards a degree, of 120 credits)
+3-year Technical Upper Secondary Programme, Mechanical Engineering specialisation (1992; Teknisk linje, 3-årig maskinteknisk gren)
 
 ---
 
@@ -145,11 +152,11 @@ Department of Clinical Neuroscience
 ## Postdoc appointments {#postdoc}
 
 **2017–2019** (20% appointment)  
-Postdoc in Mari Lundberg’s research group **Back in Motion**  
+Postdoc in Professor Mari Lundberg’s research group **Back in Motion**  
 
 - Department of Neurobiology, Care Sciences and Society (NVS), Karolinska Institutet  
 - Department of Orthopaedics, Sahlgrenska University Hospital, Gothenburg, Sweden  
-- Supervisor: Mari Lundberg  
+- Supervisor: Professor Mari Lundberg  
 
 ---
 
@@ -179,20 +186,6 @@ Clinical Psychologist, Karolinska University Hospital
 **2007–2008**  
 Psychologist in training (Praktisk Tjänstgöring för Psykologer; PTP),  
 Karolinska University Hospital, Smärtbehandlingsenheten, Psykologkliniken  
-
----
-
-## Time deducted from active research time
-
-**2011–2014**  
-Parental leave, approximately 30%  
-
----
-
-## Language skills {#language-skills}
-
-- **Swedish**: Native speaker  
-- **English**: Near-native  
 
 ---
 
@@ -295,7 +288,7 @@ Parental leave, approximately 30%
    
 2. Evaluation of an internet-delivered exposure-based psychological intervention for youth and their caregivers - a three-arm randomized controlled trial (collaborator)
 
-3. A feasibility study of an Exposure-based psychological intervention for adolescents with BII-phobia (principal investigator)
+3. A feasibility study of an Exposure-based psychological intervention for adolescents with BII-phobia - a non-randomized longitudinal study (principal investigator)
 
 ---
 ## Research funding {#research-funding}
