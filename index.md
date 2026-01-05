@@ -107,7 +107,7 @@ Currently I'm exploring a move towards research on applied clinical AI-based sol
 
 ## Courses and degrees {#courses-degrees}
 
-**>2015**
+**>2015**  
 Applied artificial intelligence (AI) in healthcare, Karolinska Institutet (2024-06-28; 15 credits)
 
 Pedagogy for Doctoral Supervisors (PDS), Karolinska Institutet (2023-05; 3 credits) 
@@ -128,7 +128,7 @@ M.Sc. in Psychology (psykologexamen), Stockholm University
 **2003–2006**  
 B.Sc. in Theoretical Philosophy, Stockholm University  
 
-**<2003**
+**<2003**  
 Upper Secondary Engineering Diploma, Mechanical Engineering (1994-1995; Gymnasieingenjör, maskinteknik)
 
 Associate's degree in mechanical engineering from the Royal Institute of Technology (1993-1994; completed 33 credits towards a degree, of 120 credits)
