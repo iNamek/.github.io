@@ -71,6 +71,13 @@
   }
 </style>
 
+<nav class="sticky-nav">
+  <a href="/">CV</a> ·
+  <a href="/about">About</a> ·
+  <a href="/links">Links & resources</a>
+</nav>
+
+---
 # Curriculum Vitae: Mike Kemani
 Licensed psychologist, PhD, docent (associate professor) in clinical psychology.
 Stockholm, Sweden  
