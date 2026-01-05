@@ -115,7 +115,7 @@ Pedagogy for Doctoral Supervisors (PDS), Karolinska Institutet (2023-05; 3 credi
 
 Teaching and learning in higher education distance (GHPD), Karolinska institutet (2023-05; 7.5 credits)
 
-**2016**
+**2016**  
 Introductory Doctoral Supervision, Karolinska Institutet (2016-05; 1.5 credits)
 
 **2010–2015**  
@@ -136,7 +136,7 @@ Upper Secondary Engineering Diploma, Mechanical Engineering (Gymnasieingenjör, 
 **1993-1994**  
 Associate's degree in mechanical engineering from the Royal Institute of Technology (completed 33 credits towards a degree, of 120 credits)
 
-**1989-1992**
+**1989-1992**  
 3-year Technical Upper Secondary Programme, Mechanical Engineering specialisation (Teknisk linje, 3-årig maskinteknisk gren)
 
 ---
@@ -155,7 +155,7 @@ Department of Clinical Neuroscience
 - Co-supervisor: Professor Mats Lekander  
 
 **Link to dissertation**  
-[<https://openarchive.ki.se/xmlui/handle/10616/44579>](https://openarchive.ki.se/articles/thesis/Efficacy_and_processes_of_change_in_acceptance_and_commitment_therapy_for_chronic_pain/26912881?file=48956956)
+<https://openarchive.ki.se/articles/thesis/Efficacy_and_processes_of_change_in_acceptance_and_commitment_therapy_for_chronic_pain/26912881?file=48956956>
 
 ---
 
