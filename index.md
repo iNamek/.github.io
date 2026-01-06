@@ -87,7 +87,7 @@
   /* Offset anchored headings so they appear below both nav bars */
   h2[id],
   h3[id] {
-    scroll-margin-top: 166px; /* adjust if combined nav height changes */
+    scroll-margin-top: 168px; /* adjust if combined nav height changes */
   }
 </style>
 
