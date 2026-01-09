@@ -42,7 +42,7 @@
 <nav class="site-nav">
   My pages:
   <a href="/about">About</a> ·
-  <a href="/resources">Resources</a> .
+  <a href="/resources">Resources</a> ·
   <a href="/index">CV</a>
 </nav>
 
@@ -74,11 +74,10 @@ A collection of links to resources I find useful or interesting.
 <https://ssi.inc/>
 
 <b>People</b><br>
-<https://mila.quebec/en/directory/yoshua-bengio><br>
-<https://paulfchristiano.com/><br>
-<https://nickbostrom.com/><br>
+<a href="https://mila.quebec/en/directory/yoshua-bengio">Yoshua Bengio<br>
+<a href="https://paulfchristiano.com/">Paul Christiano<br>
+<a href="https://nickbostrom.com/">Nick Bostrom<br>
 <a href="https://consc.net/">David Chalmers</a>
-
 
 ## Podcasts {#podcasts}
 
