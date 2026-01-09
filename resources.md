@@ -70,8 +70,8 @@ A collection of links to resources I find useful or interesting.
 <a href="https://x.ai/">X AI</a>
 
 <b>Focusing on AI safety</b><br>
-<a href="https://www.conjecture.dev/">Conjecture</a><br>
-<a href="https://ssi.inc/">Safe Superintelligence</a>
+<a href="https://www.conjecture.dev/">Conjecture (Connor Leahy)</a><br>
+<a href="https://ssi.inc/">Safe Superintelligence (Ilya Sutskever)</a>
 
 <b>People</b><br>
 <a href="https://mila.quebec/en/directory/yoshua-bengio">Yoshua Bengio</a><br>
