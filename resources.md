@@ -101,4 +101,4 @@ A collection of links to resources I find useful or interesting.
 
 ## Writings {#writings}
 
-<a href="https://ai-2027.com/"><AI 2027; Daniel Kokatejo, Scott Alexander, Thomas Larsen, Eli Lifland & Romeo Dean</a><br>
+<a href="https://ai-2027.com/">AI 2027; Daniel Kokatajlo, Scott Alexander, Thomas Larsen, Eli Lifland & Romeo Dean</a><br>
