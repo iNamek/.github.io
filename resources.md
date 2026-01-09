@@ -85,8 +85,8 @@ A collection of links to resources I find useful or interesting.
 ## Books {#books}
 
 Currently reading
-Human Compatible; Stuart Russell: <a href="https://www.goodreads.com/book/show/44767248-human-compatible?">Goodreads</a>; <a href="from_search=true&from_srp=true&qid=l4iK8O3Zt1&rank=1; https://en.wikipedia.org/wiki/Human_Compatible
-Genius Makers; Cade Metz: <a href="https://www.goodreads.com/book/show/55051662-genius-makers
+Human Compatible; Stuart Russell: <a href="https://www.goodreads.com/book/show/44767248-human-compatible?">Goodreads</a>; <a href="https://en.wikipedia.org/wiki/Human_Compatible">Wikipedia</a><br>
+Genius Makers; Cade Metz: <a href="https://www.goodreads.com/book/show/55051662-genius-makers">Goodreads</a>
 
 ## Writings {#writings}
 
