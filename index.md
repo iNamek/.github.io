@@ -94,8 +94,8 @@
 <nav class="site-nav">
   My pages:
   <a href="/about">About</a> ·
-  <a href="/">CV</a> ·
-  <a href="/links">Resources</a>
+  <a href="/resources">Resources</a> .
+   <a href="/">CV</a>
 </nav>
 
 ---
