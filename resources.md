@@ -52,7 +52,7 @@
   <a href="#podcasts">Podcasts</a> ·
   <a href="#books">Books</a> ·
   <a href="#writings">Writings</a>
-</nav><br>
+</nav>
 
 # Resources
 
@@ -91,6 +91,7 @@ Genius Makers; Cade Metz: <a href="https://www.goodreads.com/book/show/55051662-
 Read<br>
 AI: Unexplainable, Unpredictable, Uncontrollable; Roman V. Yampolskiy: <a href="https://www.goodreads.com/book/show/197554072-ai?ac=1&from_search=true&qid=ex5DoMset7&rank=1">Goodreads</a><br>
 If Anyone Builds it Everyone Dies; Eliezer Yudkowski and Nate Soares; <a href="https://www.goodreads.com/book/show/228646231-if-anyone-builds-it-everyone-dies?ac=1&from_search=true&qid=LnMZZTDwUt&rank=1">Goodreads</a><br>
+Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI; Karen Hao: <a href="https://www.goodreads.com/book/show/222725518-empire-of-ai?ref=rae_2">Goodreads</a><br>
 
 ## Writings {#writings}
 
