@@ -65,8 +65,20 @@ A collection of links to resources I find useful or interesting.
 <b>AI Companies</b><br>
 <https://deepmind.google><br>
 <https://www.anthropic.com/><br>
+<https://openai.com/sv-SE/>
+<https://ai.meta.com/>
+<https://x.ai/>
 
-- ...
+<b>Focusing on AI safety</b><br>
+<https://www.conjecture.dev/>
+https://ssi.inc/
+
+<b>People</b><br>
+<https://mila.quebec/en/directory/yoshua-bengio>
+<https://paulfchristiano.com/>
+<https://nickbostrom.com/>
+<"David Chalmers":https://consc.net/>
+
 
 ## Podcasts {#podcasts}
 
