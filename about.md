@@ -50,10 +50,8 @@
   About menu:
   <a href="#about">About me</a> ·
   <a href="#what">What I do</a> ·
-  <a href="#research-interests">Research Interests</a> ·
-  <a href="#tools-i-use">Tools & methods I use</a> ·
-  <a href="#find-more">Where to find more</a> ·
   <a href="#curios-about">What I'm currently curios about</a> ·
+  <a href="#find-more">Where to find more</a>
 </nav>
 
 # About me {#about}
@@ -90,4 +88,4 @@ I work at **Karolinska University Hospital** as an operations developer, focusin
   My full CV, including a complete publication list, is available here: <https://inamek.github.io/index>.
 
 ---
-If you’re interested in any of the above – whether from a digitalization, research, AI-safety och conspiracy angle – feel free to reach out (<mike.kemani.2@ki.se>).
+If you’re interested in any of the above – whether from a digitalization, research, AI-safety or conspiracy angle – feel free to reach out (<mike.kemani.2@ki.se>).
