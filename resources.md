@@ -99,9 +99,6 @@ A collection of links to resources I find useful or interesting.
 <i>The Optimist: Sam Altman, OpenAI, and the Race to Invent the Future</i>, Keach Hagey: <a href="https://www.goodreads.com/book/show/223400731-the-optimist?from_search=true&from_srp=true&qid=MsUElAq2Gd&rank=1">Goodreads</a><br>
 <i>Artificial Intelligence: A Guide for Thinking Humans</i>, Melanie Mitchell: <a href="https://www.goodreads.com/book/show/223400731-the-optimist?from_search=true&from_srp=true&qid=MsUElAq2Gd&rank=1">Goodreads</a><br>
 
-
-
-
 ## Writings {#writings}
 
 <a href="https://ai-2027.com/">AI 2027; Daniel Kokatajlo, Scott Alexander, Thomas Larsen, Eli Lifland & Romeo Dean</a><br>
