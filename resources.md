@@ -89,7 +89,7 @@ A collection of links to resources I find useful or interesting.
 <i>Genius Makers</i>; Cade Metz: <a href="https://www.goodreads.com/book/show/55051662-genius-makers">Goodreads</a><br>
 <i>The Psychology of Learning: An Introduction from a Functional-Cognitive Perspective</i>; Jan De Houwer, Sean Hughes: <a href="https://www.goodreads.com/book/show/51456670-the-psychology-of-learning?from_search=true&from_srp=true&qid=TiFRFlqd2V&rank=1">Goodreads</a><br>
 <i>Reality+: Virtual Worlds and the Problems of Philosophy</i>; David Chalmers: <a href="https://www.goodreads.com/book/show/58085215-reality?from_search=true&from_srp=true&qid=MIhF7uEV6S&rank=2">Goodreads</a><br>
-
+<i>Conspiracy: Why the Rational Believe the Irrationa</i>, Michael Shermer<a href="https://www.goodreads.com/book/show/61857147-conspiracy?from_search=true&from_srp=true&qid=x6s49ICOHU&rank=9">Goodreads</a><br>
 
 <b>Read</b><br>
 <i>AI: Unexplainable, Unpredictable, Uncontrollable</i>; Roman V. Yampolskiy: <a href="https://www.goodreads.com/book/show/197554072-ai?ac=1&from_search=true&qid=ex5DoMset7&rank=1">Goodreads</a><br>
