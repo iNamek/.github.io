@@ -50,7 +50,7 @@
   About menu:
   <a href="#about">About me</a> ·
   <a href="#what">What I do</a> ·
-  <a href="#curios-about">What I'm currently curios about</a> ·
+  <a href="#curios-about">What I'm currently exploring</a> ·
   <a href="#find-more">Where to find more</a>
 </nav>
 
