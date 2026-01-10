@@ -68,14 +68,14 @@ I work at **Karolinska University Hospital** as an operations developer, focusin
 ## What I do {#what}
 
 **Clinical digitalisation**  
-  - I support and facilitate the development, implementation, and evaluation of **digital and hybrid clinical solutions and workflows** at Karolinska University Hospital. This includes the digitalization of assessments procedures and interventions provided by health care professionals.
+  - I support and facilitate the development, implementation, and evaluation of **digital and hybrid clinical solutions and workflows** at Karolinska University Hospital. This includes the digitalization of assessments procedures and interventions provided by healthprofessionals.
 
 **Research**  
   - Internet-based Acceptance and Commitment Therapy (ACT) for longstanding pain in youth.  
   - Studies on **ME/CFS** and **post-COVID-19 condition**, including symptom profiles, and rehabilitation.
-  - Studies related to pre-/rehabiliation in lumbar fusion surgery 
+  - Studies related to **rehabiliation in lumbar fusion surgery**.
   - Moving toward research on the development and evaluation of **applied AI-based solutions** in the healthcare context, and **non-technical AI safety**.
-  - Exploring ways to contribute researchwise, in investigating mis-, dis- and malinformation and conspiratioral thinking, and more specifically how these aspects are relevant to new technology and healthcare.
+  - Exploring ways to contribute researchwise, in investigating mis-, dis- and malinformation and conspiratioral thinking, and more specifically in relation to new technology and healthcare.
 
 ---
 
