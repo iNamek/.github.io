@@ -85,7 +85,7 @@ A collection of links to resources I find useful or interesting.
 <a href="https://www.alignmentforum.org/">Aligment Forum</a><br>
 <a href="https://www.astralcodexten.com/">Astral Codex ten</a><br>
 <a href="https://https://www.lesswrong.com/">Less Wrong</a><br>
-<a href="https://www.overcomingbias.com/">Less Wrong</a><br>
+<a href="https://www.overcomingbias.com/">Overcoming Bias</a><br>
 
 ## Podcasts {#podcasts}
 <a href="https://open.spotify.com/show/2Op1WO3gwVwCrYHg4eoGyP?si=137b39f2cd694d0f">Future of Life Institute Podcast</a>
