@@ -62,19 +62,19 @@ A collection of links to resources I find useful or interesting.
 
 ## Websites {#websites}
 
-<b>AI Companies</b><br>
-**<i>The major players</i>**<br>
+**AI Companies**<br>
+***The major players***<br>
 <a href="https://deepmind.google">Google Deep Mind</a><br>
 <a href="https://www.anthropic.com/">Anthropic</a><br>
 <a href="https://openai.com/sv-SE/">OpenAI</a><br>
 <a href="https://ai.meta.com/">Meta AI</a><br>
 <a href="https://x.ai/">X AI</a>
 
-***<i>Focusing on AI safety</i><br>
-***<a href="https://www.conjecture.dev/">Conjecture (Connor Leahy)</a><br>***
-<a href="https://ssi.inc/">Safe Superintelligence (Ilya Sutskever)</a>
+***Focusing on AI safety***<br>
+<a href="https://www.conjecture.dev/">Conjecture (Connor Leahy)</a><br>
+<a href="https://ssi.inc/">Safe Superintelligence (Ilya Sutskever)</a><br>
 
-<b>People</b><br>
+**People**<br>
 <a href="https://mila.quebec/en/directory/yoshua-bengio">Yoshua Bengio</a><br>
 <a href="https://paulfchristiano.com/">Paul Christiano</a><br>
 <a href="https://nickbostrom.com/">Nick Bostrom</a><br>
@@ -85,7 +85,7 @@ A collection of links to resources I find useful or interesting.
 
 ## Books {#books}
 
-<b>Currently reading</b><br>
+**Currently reading**<br>
 <i>Human Compatible</i>, Stuart Russell: <a href="https://www.goodreads.com/book/show/44767248-human-compatible?">Goodreads</a>; <a href="https://en.wikipedia.org/wiki/Human_Compatible">Wikipedia</a><br>
 <i>Genius Makers</i>, Cade Metz: <a href="https://www.goodreads.com/book/show/55051662-genius-makers">Goodreads</a><br>
 <i>The Psychology of Learning: An Introduction from a Functional-Cognitive Perspective</i>, Jan De Houwer, Sean Hughes: <a href="https://www.goodreads.com/book/show/51456670-the-psychology-of-learning?from_search=true&from_srp=true&qid=TiFRFlqd2V&rank=1">Goodreads</a><br>
@@ -93,7 +93,7 @@ A collection of links to resources I find useful or interesting.
 <i>Reality+: Virtual Worlds and the Problems of Philosophy</i>, David Chalmers: <a href="https://www.goodreads.com/book/show/58085215-reality?from_search=true&from_srp=true&qid=MIhF7uEV6S&rank=2">Goodreads</a><br>
 
 
-<b>Read</b><br>
+**Read**<br>
 <i>AI: Unexplainable, Unpredictable, Uncontrollable</i>, Roman V. Yampolskiy: <a href="https://www.goodreads.com/book/show/197554072-ai?ac=1&from_search=true&qid=ex5DoMset7&rank=1">Goodreads</a><br>
 <i>Uncontrollable: The Threat of Artificial Superintelligence and the Race to Save the World</i>, Darren McKee: <a href="https://www.goodreads.com/book/show/202416160-uncontrollable?ref=nav_sb_ss_1_21">Goodreads</a><br>
 <i>If Anyone Builds it Everyone Dies</i>, Eliezer Yudkowski and Nate Soares: <a href="https://www.goodreads.com/book/show/228646231-if-anyone-builds-it-everyone-dies?ac=1&from_search=true&qid=LnMZZTDwUt&rank=1">Goodreads</a><br>
