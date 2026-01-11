@@ -86,7 +86,7 @@ A collection of links to resources I find useful or interesting.
 ## Books {#books}
 
 **Currently reading**<br>
-<i>Human Compatible</i>, Stuart Russell: <a href="https://www.goodreads.com/book/show/44767248-human-compatible?">Goodreads</a>; <a href="https://en.wikipedia.org/wiki/Human_Compatible">Wikipedia</a><br>
+<i>Human Compatible: Artificial Intelligence and the Problem of Control</i>, Stuart Russell: <a href="https://www.goodreads.com/book/show/44767248-human-compatible?">Goodreads</a>; <a href="https://en.wikipedia.org/wiki/Human_Compatible">Wikipedia</a><br>
 <i>Genius Makers</i>, Cade Metz: <a href="https://www.goodreads.com/book/show/55051662-genius-makers">Goodreads</a><br>
 <i>The Psychology of Learning: An Introduction from a Functional-Cognitive Perspective</i>, Jan De Houwer, Sean Hughes: <a href="https://www.goodreads.com/book/show/51456670-the-psychology-of-learning?from_search=true&from_srp=true&qid=TiFRFlqd2V&rank=1">Goodreads</a><br>
 <i>Conspiracy: Why the Rational Believe the Irrational</i>, Michael Shermer: <a href="https://www.goodreads.com/book/show/61857147-conspiracy?from_search=true&from_srp=true&qid=x6s49ICOHU&rank=9">Goodreads</a><br>
