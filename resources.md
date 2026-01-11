@@ -102,9 +102,7 @@ A collection of links to resources I find useful or interesting.
 **Read**<br>
 <i>AI: Unexplainable, Unpredictable, Uncontrollable</i>, Roman V. Yampolskiy: <a href="https://www.goodreads.com/book/show/197554072-ai?ac=1&from_search=true&qid=ex5DoMset7&rank=1">Goodreads</a><br>
 <i>Uncontrollable: The Threat of Artificial Superintelligence and the Race to Save the World</i>, Darren McKee: <a href="https://www.goodreads.com/book/show/202416160-uncontrollable?ref=nav_sb_ss_1_21">Goodreads</a><br>
-
 <i>If Anyone Builds it Everyone Dies</i>, Eliezer Yudkowski and Nate Soares: <a href="https://www.goodreads.com/book/show/228646231-if-anyone-builds-it-everyone-dies?ac=1&from_search=true&qid=LnMZZTDwUt&rank=1">Goodreads</a>; <a href="https://ifanyonebuildsit.com/">Official Book Site, with resources</a><br>
-
 <i>Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI</i>, Karen Hao: <a href="https://www.goodreads.com/book/show/222725518-empire-of-ai?ref=rae_2">Goodreads</a><br>
 <i>The Optimist: Sam Altman, OpenAI, and the Race to Invent the Future</i>, Keach Hagey: <a href="https://www.goodreads.com/book/show/223400731-the-optimist?from_search=true&from_srp=true&qid=MsUElAq2Gd&rank=1">Goodreads</a><br>
 <i>Artificial Intelligence: A Guide for Thinking Humans</i>, Melanie Mitchell: <a href="https://www.goodreads.com/search?q=Artificial+Intelligence%3A+A+Guide+for+Thinking+Humans&ref=nav_sb_noss_l_52">Goodreads</a><br>
