@@ -81,11 +81,15 @@ A collection of links to resources I find useful or interesting.
 <a href="https://consc.net/">David Chalmers</a><br>
 <a href="https://paulfchristiano.com/">Paul Christiano</a><br>
 
-## Forums & Communities {#forums}
+## Forums, Communities & Organisations {#forums}
 <a href="https://www.alignmentforum.org/">Aligment Forum</a><br>
 <a href="https://www.astralcodexten.com/">Astral Codex ten (Scott Alexander)</a><br>
 <a href="https://www.lesswrong.com/">Less Wrong</a><br>
 <a href="https://www.overcomingbias.com/">Overcoming Bias (Robin Hanson)</a><br>
+<a href="https://lethalintelligence.ai/">A site covering the lethal dangers of upcoming Autonomous and General
+Artificial Intelligence systems (AGI)</a><br>
+<a href="https://safe.ai/">Centre for AI Safety (CAIS)</a><br>
+<a href="https://pauseai.se/xrisk">Ideell organisation som syftar till att mildra riskerna med AI)</a><br>
 
 ## Podcasts {#podcasts}
 <a href="https://open.spotify.com/show/2Op1WO3gwVwCrYHg4eoGyP?si=137b39f2cd694d0f">Future of Life Institute Podcast</a>
