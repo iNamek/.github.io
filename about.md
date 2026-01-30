@@ -59,7 +59,7 @@
 **Docent (associate professor), licensed clinical psychologist, PhD**  
 Stockholm, Sweden  
 
-I work at **Karolinska University Hospital** as an operations developer, focusing on clinical digitalization. Also, I have a research affiliation at <a href="https://ki.se/en/people/mike-kemani-2">**Karolinska Institutet**</a>. My background encompasses leadership in healthcare, including the application and implementation of clinical psychology within healthcare, research in the field of behavioral medicine, and the management of chronic pain. These days, I split my time between **clinical digitalization**, **research**, and explorations of how I can contribute towards **AI safety and ethics**.
+I work at **Karolinska University Hospital** as an operations developer, focusing on clinical digitalization. Also, I have a research affiliation at <a href="https://ki.se/en/people/mike-kemani-2">**Karolinska Institutet**</a>. My background encompasses leadership in healthcare, including the application and implementation of clinical psychology within healthcare, research in the field of behavioral medicine, and the management of chronic pain. These days, I split my time between **clinical digitalization**, **research**, and explorations of how I can contribute towards **AI safety and ways to mitigate AI risk**.
 
 ---
 
@@ -78,7 +78,7 @@ I work at **Karolinska University Hospital** as an operations developer, focusin
 ---
 
 ## What I’m currently exploring {#curios-about} 
-Under the assumption that these systems are realizable, I'm aiming to understand the arguments concluding that there are substantial risks in the near and long-term in developing Artificial General Intelligence (AGI) and Artificial Superintelligence (ASI), as well as the theoretical work that has been done to formulate strategies for the development of safe such systems (AGI, ASI), and how we can mitigate risks related to the development and proliferation of such systems. Additionally, assuming we find a way to safely navigate the development and integration of such systems into society, what could such a world look like? Lastly, I'm interested in better understanding the cognitive and psychological (from a behavioral perspective) aspects related to effective conveying and acceptance of mis-/dis-/malinformation and conspiracy thinking, especially in relation to the fields of new technology and healthcare.
+Under the assumption that these systems are realizable, I'm aiming to understand the arguments concluding that there are substantial risks in the near and long-term in developing Artificial General Intelligence (AGI) and Artificial Superintelligence (ASI), as well as the theoretical work that has been done to formulate strategies for the development of safe such systems (AGI, ASI), and how we can mitigate risks related to the development and proliferation of such systems. Additionally, assuming we find a way to safely navigate the development and integration of such systems into society, what could such a world look like?
    
 ---
 
