@@ -131,9 +131,9 @@ Email: mike.kemani@regionstockholm.se (work); mike.kemani.2@ki.se (research)
 
 I am a licensed psychologist and clinical researcher. I currently work at the Karolinska University Hospital, where I support the development of digital and hybrid clinical workflows as part of the organization’s clinical digital transformation. I also have extensive leadership experience from managerial roles at Karolinska University Hospital, as well as long-standing clinical experience providing cognitive behavioural therapy in healthcare settings, particularly in relation to chronic pain.
 
-After finishing my doctoral thesis, on the efficacy and processes of change in Acceptance and Commitment Therapy (ACT) for longstanding pain, my research has centred on: the psychometric evaluations of self-report questionnaires related to chronic pain; the evaluation of behavioural and digital behavioural interventions in clinical settings; projects evaluating aspects of health, psychological factors among healthcare personnel, as well as the relationships between individual factors and symptoms in Post COVID-19, and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS).
+After finishing my doctoral thesis, on the efficacy and processes of change in Acceptance and Commitment Therapy (ACT) for longstanding pain in adults, my research has centred on: the psychometric evaluations of self-report questionnaires related to chronic pain; the evaluation of behavioural and digital behavioural interventions in clinical settings; projects evaluating aspects of health, psychological factors among healthcare personnel, as well as the relationships between individual factors and symptoms in Post COVID-19, and Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS).
 
-Currently, I'm exploring a move towards research on applied clinical AI-based solutions, non-technical AI safety, and more theoretically oriented questions relevant to the field of learning and artificial intelligence. As a side quest, I'm also exploring potential research gaps in the field of conspiracy theories/conspiratorial thinking in healthcare and wellness.
+Currently, I'm exploring a move towards research on applied clinical AI-based solutions and ways to contribute to AI safety and mitigate AI risk.
 
 ---
 
