@@ -52,7 +52,8 @@
   <a href="#forums">Forums & Communities</a> ·
   <a href="#podcasts">Podcasts</a> ·
   <a href="#books">Books</a> ·
-  <a href="#writings">Writings</a>
+  <a href="#writings">Writings</a> ·
+  <a href="#learning">Courses and learning resources</a> ·
 </nav>
 
 # Resources
@@ -86,7 +87,7 @@ A collection of links to resources I find useful or interesting.
 <a href="https://www.astralcodexten.com/">Astral Codex ten (Scott Alexander)</a><br>
 <a href="https://www.lesswrong.com/">Less Wrong</a><br>
 <a href="https://www.overcomingbias.com/">Overcoming Bias (Robin Hanson)</a><br>
-<a href="https://lethalintelligence.ai/">A site covering the lethal dangers of upcoming Autonomous and General
+<a href="https://lethalintelligence.ai/">A site covering the potential lethal dangers of upcoming Autonomous and General
 Artificial Intelligence systems (AGI)</a><br>
 <a href="https://safe.ai/">Center for AI Safety (CAIS)</a><br>
 <a href="https://pauseai.se/xrisk">Ideell organisation som syftar till att mildra riskerna med AI)</a><br>
@@ -97,13 +98,13 @@ Artificial Intelligence systems (AGI)</a><br>
 ## Books {#books}
 
 **Currently reading**<br>
-<i>Human Compatible: Artificial Intelligence and the Problem of Control</i>, Stuart Russell: <a href="https://www.goodreads.com/book/show/44767248-human-compatible?">Goodreads</a>; <a href="https://en.wikipedia.org/wiki/Human_Compatible">Wikipedia</a><br>
-<i>Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the World</i>, Cade Metz: <a href="https://www.goodreads.com/book/show/55051662-genius-makers">Goodreads</a><br>
 <i>The Psychology of Learning: An Introduction from a Functional-Cognitive Perspective</i>, Jan De Houwer & Sean Hughes: <a href="https://www.goodreads.com/book/show/51456670-the-psychology-of-learning?from_search=true&from_srp=true&qid=TiFRFlqd2V&rank=1">Goodreads</a><br>
 <i>Conspiracy: Why the Rational Believe the Irrational</i>, Michael Shermer: <a href="https://www.goodreads.com/book/show/61857147-conspiracy?from_search=true&from_srp=true&qid=x6s49ICOHU&rank=9">Goodreads</a><br>
 <i>Reality+: Virtual Worlds and the Problems of Philosophy</i>, David Chalmers: <a href="https://www.goodreads.com/book/show/58085215-reality?from_search=true&from_srp=true&qid=MIhF7uEV6S&rank=2">Goodreads</a><br>
 
 **Read**<br>
+<i>Human Compatible: Artificial Intelligence and the Problem of Control</i>, Stuart Russell: <a href="https://www.goodreads.com/book/show/44767248-human-compatible?">Goodreads</a>; <a href="https://en.wikipedia.org/wiki/Human_Compatible">Wikipedia</a><br>
+<i>Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the World</i>, Cade Metz: <a href="https://www.goodreads.com/book/show/55051662-genius-makers">Goodreads</a><br>
 <i>AI: Unexplainable, Unpredictable, Uncontrollable</i>, Roman V. Yampolskiy: <a href="https://www.goodreads.com/book/show/197554072-ai?ac=1&from_search=true&qid=ex5DoMset7&rank=1">Goodreads</a><br>
 <i>Uncontrollable: The Threat of Artificial Superintelligence and the Race to Save the World</i>, Darren McKee: <a href="https://www.goodreads.com/book/show/202416160-uncontrollable?ref=nav_sb_ss_1_21">Goodreads</a><br>
 <i>If Anyone Builds it Everyone Dies</i>, Eliezer Yudkowski and Nate Soares: <a href="https://www.goodreads.com/book/show/228646231-if-anyone-builds-it-everyone-dies?ac=1&from_search=true&qid=LnMZZTDwUt&rank=1">Goodreads</a>; <a href="https://ifanyonebuildsit.com/">Official Book Site, with resources</a><br>
@@ -115,3 +116,7 @@ Artificial Intelligence systems (AGI)</a><br>
 ## Writings {#writings}
 
 <a href="https://ai-2027.com/">AI 2027; Daniel Kokatajlo, Scott Alexander, Thomas Larsen, Eli Lifland & Romeo Dean</a><br>
+
+## Courses and learning resources (#learning)
+Courses and learning resources
+Elements of AI[https://www.elementsofai.se/]
