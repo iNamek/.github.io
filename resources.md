@@ -119,5 +119,6 @@ Artificial Intelligence systems (AGI)</a><br>
 <a href="https://darioamodei.com/essay/machines-of-loving-grace">Essay written by Dario Amodei</a><br>
 
 ## Courses and learning resources (#learning)
-Courses and learning resources
-Elements of AI[https://www.elementsofai.se/]
+
+**Courses and learning resources**<br>
+<a href="https://www.elementsofai.se/"> Course, in which part 1 covers the very basics of AI (Part 1), and part 2 gets into basic Python programming and touches on the more applied aspects of developing AI-systems.</a><br>
