@@ -52,6 +52,7 @@
   <a href="#forums">Forums & Communities</a> ·
   <a href="#podcasts">Podcasts</a> ·
   <a href="#books">Books</a> ·
+ <a href="#reviews">Book Reviews</a> ·
   <a href="#writings">Writings</a> ·
   <a href="#learning">Courses and learning resources</a> ·
 </nav>
@@ -112,6 +113,9 @@ Artificial Intelligence systems (AGI)</a><br>
 <i>The Optimist: Sam Altman, OpenAI, and the Race to Invent the Future</i>, Keach Hagey: <a href="https://www.goodreads.com/book/show/223400731-the-optimist?from_search=true&from_srp=true&qid=MsUElAq2Gd&rank=1">Goodreads</a><br>
 <i>Artificial Intelligence: A Guide for Thinking Humans</i>, Melanie Mitchell: <a href="https://www.goodreads.com/search?q=Artificial+Intelligence%3A+A+Guide+for+Thinking+Humans&ref=nav_sb_noss_l_52">Goodreads</a><br>
 <i>Superintelligence: Paths, Dangers, Strategies</i>, Nick Bostrom: <a href="https://www.goodreads.com/book/show/20527133-superintelligence?from_search=true&from_srp=true&qid=9ESlhnWs2T&rank=1">Goodreads</a><br>
+
+## Reviews {#reviews}
+href="https://thezvi.substack.com/p/book-review-if-anyone-builds-it-everyone">The Zvi Substack</a><br>
 
 ## Writings {#writings}
 
