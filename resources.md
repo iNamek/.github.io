@@ -120,7 +120,8 @@ Artificial Intelligence systems (AGI)</a><br>
 ## Writings {#writings}
 
 <a href="https://ai-2027.com/">AI 2027; Daniel Kokatajlo, Scott Alexander, Thomas Larsen, Eli Lifland & Romeo Dean</a><br>
-<a href="https://darioamodei.com/essay/machines-of-loving-grace">Essay written by Dario Amodei</a><br>
+<a href="https://darioamodei.com/essay/machines-of-loving-grace">-Machines of Loving Grace; Dario Amodei</a><br>
+<a href="https://www.darioamodei.com/essay/the-adolescence-of-technology">-The Adolescence of Technology; Dario Amodei</a><br>
 
 ## Courses and learning resources (#learning)
 
