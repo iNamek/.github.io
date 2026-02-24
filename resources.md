@@ -115,7 +115,7 @@ Artificial Intelligence systems (AGI)</a><br>
 <i>Superintelligence: Paths, Dangers, Strategies</i>, Nick Bostrom: <a href="https://www.goodreads.com/book/show/20527133-superintelligence?from_search=true&from_srp=true&qid=9ESlhnWs2T&rank=1">Goodreads</a><br>
 
 ## Reviews {#reviews}
-<a href="https://thezvi.substack.com/p/book-review-if-anyone-builds-it-everyone">The Zvi Substack</a><br>
+<a href="https://thezvi.substack.com/p/book-review-if-anyone-builds-it-everyone">Review of "If Anyone Builds it Everyone Dies" (Yudkowski & Soares, 2025); The Zvi Substack</a><br>
 
 ## Writings {#writings}
 
