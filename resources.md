@@ -127,4 +127,4 @@ Artificial Intelligence systems (AGI)</a><br>
 ## Courses and learning resources {#learning}
 
 **Courses and learning resources**<br>
-<a href="https://www.elementsofai.se/">Elements of AI course, in which part 1 covers the very basics of AI, and part 2 gets into basic Python programming and touches on the more applied aspects of developing AI-systems.</a><br>
+<a href="https://www.elementsofai.se/">Elements of AI: course, in which part 1 covers the basics of AI, and part 2 gets into Python programming and touches on the applied aspects of developing AI-systems.</a><br>
