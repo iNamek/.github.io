@@ -117,11 +117,13 @@ Artificial Intelligence systems (AGI)</a><br>
 ## Reviews {#reviews}
 <a href="https://thezvi.substack.com/p/book-review-if-anyone-builds-it-everyone">Review of "If Anyone Builds it Everyone Dies" (Yudkowski & Soares, 2025); The Zvi Substack</a><br>
 
-## Writings {#writings}
+## Miscellaneous Writings on AI {#writings}
 
 <a href="https://ai-2027.com/">AI 2027; Daniel Kokatajlo, Scott Alexander, Thomas Larsen, Eli Lifland & Romeo Dean</a><br>
 <a href="https://darioamodei.com/essay/machines-of-loving-grace">-Machines of Loving Grace; Dario Amodei</a><br>
 <a href="https://www.darioamodei.com/essay/the-adolescence-of-technology">-The Adolescence of Technology; Dario Amodei</a><br>
+<a href="https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/">Child’s Play - Tech’s new generation and the end of thinking; Sam Kriss</a><br>
+<a href="https://gwern.net/doc/ai/nn/1993-olazaran.pdf">A Sociological History of the Neural Network Controversy; Mikel Olazaran</a><br>
 
 ## Courses and learning resources (#learning)
 
