@@ -119,12 +119,12 @@ Artificial Intelligence systems (AGI)</a><br>
 
 ## Miscellaneous Writings on AI {#writings}
 <a href="https://ai-2027.com/">AI 2027; Daniel Kokatajlo, Scott Alexander, Thomas Larsen, Eli Lifland & Romeo Dean</a><br>
-<a href="https://darioamodei.com/essay/machines-of-loving-grace">-Machines of Loving Grace; Dario Amodei</a><br>
-<a href="https://www.darioamodei.com/essay/the-adolescence-of-technology">-The Adolescence of Technology; Dario Amodei</a><br>
+<a href="https://darioamodei.com/essay/machines-of-loving-grace">Machines of Loving Grace; Dario Amodei</a><br>
+<a href="https://www.darioamodei.com/essay/the-adolescence-of-technology">The Adolescence of Technology; Dario Amodei</a><br>
 <a href="https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/">Child’s Play - Tech’s new generation and the end of thinking; Sam Kriss</a><br>
 <a href="https://gwern.net/doc/ai/nn/1993-olazaran.pdf">A Sociological History of the Neural Network Controversy; Mikel Olazaran</a><br>
 
-## Courses and learning resources (#learning)
+## Courses and learning resources {#learning}
 
 **Courses and learning resources**<br>
-<a href="https://www.elementsofai.se/"> Course, in which part 1 covers the very basics of AI (Part 1), and part 2 gets into basic Python programming and touches on the more applied aspects of developing AI-systems.</a><br>
+<a href="https://www.elementsofai.se/">Elements of AI course, in which part 1 covers the very basics of AI, and part 2 gets into basic Python programming and touches on the more applied aspects of developing AI-systems.</a><br>
