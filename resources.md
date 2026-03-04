@@ -92,6 +92,7 @@ A collection of links to resources I find useful or interesting.
 Artificial Intelligence systems (AGI)</a><br>
 <a href="https://safe.ai/">Center for AI Safety (CAIS)</a><br>
 <a href="https://pauseai.se/xrisk">Ideell organisation som syftar till att mildra riskerna med AI)</a><br>
+<a href="https://incidentdatabase.ai/cite/1152/">The AI Incident Database is dedicated to indexing the collective history of harms or near harms realized in the real world by the deployment of artificial intelligence systems.</a><br>
 
 ## Podcasts {#podcasts}
 <a href="https://open.spotify.com/show/2Op1WO3gwVwCrYHg4eoGyP?si=137b39f2cd694d0f">Future of Life Institute Podcast</a>
