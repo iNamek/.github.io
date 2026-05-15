@@ -100,6 +100,7 @@ Artificial Intelligence systems (AGI)</a><br>
 ## Books {#books}
 
 **Currently reading**<br>
+<i>Doing Good Better: How Effective Altruism Can Help You Make a Difference</i>, William MacAskill<a href="https://www.goodreads.com/book/show/23398748-doing-good-better?ref=rae_0">Goodreads</a><br>
 <i>The Psychology of Learning: An Introduction from a Functional-Cognitive Perspective</i>, Jan De Houwer & Sean Hughes: <a href="https://www.goodreads.com/book/show/51456670-the-psychology-of-learning?from_search=true&from_srp=true&qid=TiFRFlqd2V&rank=1">Goodreads</a><br>
 <i>Conspiracy: Why the Rational Believe the Irrational</i>, Michael Shermer: <a href="https://www.goodreads.com/book/show/61857147-conspiracy?from_search=true&from_srp=true&qid=x6s49ICOHU&rank=9">Goodreads</a><br>
 <i>Reality+: Virtual Worlds and the Problems of Philosophy</i>, David Chalmers: <a href="https://www.goodreads.com/book/show/58085215-reality?from_search=true&from_srp=true&qid=MIhF7uEV6S&rank=2">Goodreads</a><br>
