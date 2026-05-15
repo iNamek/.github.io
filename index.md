@@ -180,6 +180,7 @@ Surface-Mount Technology (SMT) Operator (SMD-operatör), Ericsson Radio Access A
 ## Courses and degrees {#courses-degrees}
 **2026**  
 Introduction to AI (Elements of AI), Linköping University (2026-03-01; 2 credits)
+
 Building AI (Elements of AI), Linköping University (2026-05-15; 2 credits)
 
 **2024**  
