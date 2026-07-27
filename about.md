@@ -72,8 +72,7 @@ I work at **Karolinska University Hospital** as an operations developer, focusin
   - Internet-based Acceptance and Commitment Therapy (ACT) for longstanding pain in youth.  
   - Studies on **ME/CFS** and **post-COVID-19 condition**, including symptom profiles, and rehabilitation.
   - Studies related to **rehabiliation in lumbar fusion surgery**.
-  - Moving toward research on the development and evaluation of **applied AI-based solutions** in the healthcare context, and **non-technical AI safety**.
-  - Exploring ways to contribute research-wise, in investigating mis-/dis-/malinformation and conspiracy thinking, and more specifically in relation to new technology and healthcare.
+  - Moving toward research on the development and evaluation of **applied AI-based solutions** in the healthcare context, **AI ethics** and **non-technical AI safety**.
 
 ---
 
@@ -88,4 +87,4 @@ Under the assumption that these systems are realizable, I'm aiming to understand
   My full CV, including a complete publication list, is available here: <https://inamek.github.io/index>.
 
 ---
-If you’re interested in any of the above – whether from a digitalization, research, AI-safety, or conspiracy angle – feel free to reach out (<mike.kemani.2@ki.se>).
+If you’re interested in any of the above – whether from a digitalization, research, or AI-safety angle – feel free to reach out (<mike.kemani@ki.se>).
