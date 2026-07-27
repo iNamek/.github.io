@@ -284,7 +284,7 @@ J Holmgren: Date of thesis defence, 2022/05/20, Department of Clinical Neurosien
 3. Åström J, <B>Kemani M</B>, Ekman U. Taking pain into consideration in patients with Post COVID-19 - its relation to daily functioning and patient sub-groups.
 
 ### Under Review
-1. Liljebo T, Norlin A-K, <B>Kemani MK</B>, Jonsjö M, Schmidt PT, Lindfors PJ, Störsrud, Andreasson A. Differences in nutrient intake, gastrointestinal symptoms and fatigue: A cross-sectional study comparing patients with persistent fatigue or IBS to the general population.
+1. Liljebo T, Norlin A-K, <B>Kemani MK</B>, Jonsjö M, Schmidt PT, Lindfors PJ, Störsrud, Andreasson A. Nutrient intake, diets and supplement use, gastrointestinal symptoms and fatigue: A cross-sectional study comparing patients with persistent fatigue to patients with IBS and non-fatigued controls.
 
 ### List of original works
 1. Hanafi R, Ernest C, Karlsson E, <B>Kemani MK</B>, Nijs J, Lundberg M, Jakobsson M. Validity and reliability of remote administration of the one-leg stand, timed up and go and 30-second sit-to-stand via video call in patients with lumbar spinal stenosis awaiting decompression surgery. BMC Musculoskelet Disord. 2026 Jul 8;27(1):594. doi: 10.1186/s12891-026-10149-9. PMID: 42420926; PMCID: PMC13355330. <https://pubmed.ncbi.nlm.nih.gov/42420926/>
