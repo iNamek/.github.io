@@ -1,5 +1,5 @@
 <style>
-  /* --- Global site-wide nav (CV · About · Links & resources · Reading) --- */
+  /* --- Global site-wide nav (CV · About · Resources · Reading) --- */
   .site-nav {
     position: sticky;
     top: 0;
