@@ -1,5 +1,5 @@
 <style>
-  /* --- Global site-wide nav (CV · About · Links & resources) --- */
+  /* --- Global site-wide nav (CV · About · Resources · Reading) --- */
   .site-nav {
     position: sticky;
     top: 0;
@@ -43,6 +43,7 @@
   My pages:
   <a href="/about">About</a> ·
   <a href="/resources">Resources</a> ·
+  <a href="/reading">Reading</a> ·
   <a href="/index">CV</a>
 </nav>
 
