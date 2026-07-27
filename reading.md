@@ -48,7 +48,7 @@
 </nav>
 
 <nav class="page-nav">
-  About menu:
+  Reading menu:
   <a href="#books">Books</a> ·
   <a href="#reviews">Reviews</a> ·
 </nav>
