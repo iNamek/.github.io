@@ -51,7 +51,6 @@
   <a href="#websites">Websites</a> ·
   <a href="#forums">Forums & Communities</a> ·
   <a href="#podcasts">Podcasts</a> ·
-  <a href="#reviews">Book Reviews</a> ·
   <a href="#writings">Writings</a> ·
   <a href="#learning">Courses and learning resources</a> ·
 </nav>
